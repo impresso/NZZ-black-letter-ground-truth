@@ -38,10 +38,12 @@ Here some guidelines:
  - sometimes, hyphenated words contain spaces, e.g. "Landboten - Korrespondent". We adopted the current spelling "Landboten-Korrespondent" for such cases.
  - in Transkribus, it is possible to either transcribe word based or line based. Our standard is not consistent. We have a line based transcription for all pages. Word based transcriptions are only available for the following pages: **Word-based transcription for years:**
 1780-1895, 1898, 1900, 1905, 1908, 1910, 1913, 1915, 1918, 1920, 1923, 1925, 1930, 1933, 1935, 1938, 1940, 1943, 1945, 1946
-TOTAL: 134 years
+TOTAL: 134 years --> the word boxes for these years should also be right.
  - the occurrence "N°" was always transcribed as "Nr."
  - the long "s" has always been transcribed as normal "s".
  - we corrected all baselines, so the ground truth can be used to train HTR models in Transkribus
+ - moreover, we corrected the text regions where necessary
+ - for the pages where we detected the text with the HTR model, we straightened the line boxes
  - special symbols were only rarely transcribed (sometimes the newspaper used a symbole like a triangle, a dagger or a cross to mark a specific canton or author)
  
 
