@@ -45,6 +45,7 @@ TOTAL: 134 years --> the word boxes for these years should also be right.
  - moreover, we corrected the text regions where necessary
  - for the pages where we detected the text with the HTR model, we straightened the line boxes
  - special symbols were only rarely transcribed (sometimes the newspaper used a symbole like a triangle, a dagger or a cross to mark a specific canton or author)
+ - there is a discrepancy between quotation marks. In some cases, we used the curly quotation marks (for quotation marks on the baseline (Anführungszeichen), whereas in others, the straight quotation marks were used (to mark the end of quotation (Schlusszeichen)).
  
 
 ## transcribors:
