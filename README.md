@@ -16,16 +16,16 @@ work. If not, see <https://creativecommons.org/licenses/by-nc/3.0/legalcode.txt>
 
 ## content
 This NZZ ground truth contains several files:
- - <b>NZZ_orig</b>: The original text files provided by the NZZ. The NZZ text stems from 2005. They newspaper pages were OCR-ised with ABBYY FineReader XIX, a specialised version from ABBYY for gothic letter.
- - <b>NZZ_ABBYY</b>: A version produced from Transkribus-internal (see below) ABBYY FineReader Engine 11.
- - <b>NZZ_correct</b>: Our final version of the ground truth.
-   - the finished ground truth contains 290,048 words and 40,986 lines.
+ - <b>ABBYY_FineReader_XIX</b>: The original text files provided by the NZZ. The NZZ text stems from 2005. They newspaper pages were OCR-ised with ABBYY FineReader XIX, a specialised version from ABBYY for gothic letter.
+ - <b>ABBYY_FineReader_Server11</b>: A version produced from Transkribus-internal (see below) ABBYY FineReader Engine 11.
+ - <b>NZZ_groundtruth</b>: the manually corrected texts from the 167 seven pages of the NZZ.
+   - the ground truth contains 290,048 words and 40,986 lines.
 
 ## sampling
 From 1780 to 1947 we randomly sampled one title page per year, which gives us a total of 167 pages. We chose title pages to make sure not to sample pages containing advertisements or stock information. Since the NZZ had been published several times a day during certain periods, and since there were sometimes supplements, it is not guaranteed that all title pages are from the very first issue of the day. There were also title pages from supplements which have been sampled.
 
 ## ground truth production
-In order to speed up the process of the ground truth production, we uploaded the 167 images to Transkribus (<url>https://transkribus.eu/Transkribus/</url>) and extracted the text with the internal ABBYY FineReader Engine 11. We then continued to use Transkribus to correct the text.
+In order to speed up the process of the ground truth production, we uploaded the 167 images to Transkribus (<url>https://transkribus.eu/Transkribus/</url>) and extracted the text with the internal ABBYY FineReader Server 11. We then continued to use Transkribus to manually correct the text.
 
 When the transcription of about 120 pages was done, we had the Transkribus team train a HTR model with which we extracted the text from the pages which had not been transcribed at that point in time. This significantly speeded up the process.
 
@@ -46,7 +46,7 @@ Here some guidelines:
    - the long "s" has always been transcribed as normal "s".
 
  - *regions*
-   - in Transkribus, it is possible to either transcribe word based or line based. Our standard is not consistent. We have a line based transcription for all pages. Word based transcriptions are only available for the following pages: **Word-based transcription for years:**
+   - in Transkribus, it is possible to either transcribe word-based or line-based. Generally, our ground truth is line-based. We have a line-based transcription for all pages. For the following pages, we also provide word-based transcriptions: **Word-based transcription for years:**
 1780-1895, 1898, 1900, 1905, 1908, 1910, 1913, 1915, 1918, 1920, 1923, 1925, 1930, 1933, 1935, 1938, 1940, 1943, 1945, 1946
 TOTAL: 134 years --> the word boxes for these years should also be right.
    - we corrected all baselines, so the ground truth can be used to train HTR models in Transkribus
