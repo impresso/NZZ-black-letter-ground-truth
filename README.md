@@ -19,7 +19,7 @@ This NZZ ground truth contains several directories:
  - `ABBYY_FineReader_XIX`: The original text provided by the NZZ from 2005. We extracted the images as well as the text with TET PDFLib an saved it as .tif files and .tetml files, respectively.The newspaper pages were OCR-ised with ABBYY FineReader XIX, a specialised version from ABBYY for gothic letter. 
  - `ABBYY_FineReader_Server11`: A version produced from Transkribus-internal (see below) ABBYY FineReader Engine 11.
  - `NZZ_groundtruth`: the manually corrected texts from the 167 seven pages of the NZZ.
-   - the ground truth contains 290,048 words and 40,986 lines.
+   - the ground truth contains 304,268 words and 43,151 lines.
  - `img`: The images we extracted from the PDF files we received from the nzz.
 
 ## sampling
@@ -54,10 +54,13 @@ TOTAL: 134 years --> the word boxes for these years should also be right.
    - moreover, we corrected the text regions where necessary
    - for the pages where we detected the text with the HTR model, we straightened the line boxes
  
- ## additionsl remarks
- there are pages which have been slightly cut at the right-hand side. this stems from the digitisation process by the NZZ. for future versions, we should replace these pages.
+ ## Additional remarks
+There are pages which have been slightly cut at the right-hand side. this stems from the digitisation process by the NZZ. for future versions, we should replace these pages.
  
-
+ ## Training and test data for Transkribus HTR model
+ Our paper about Transkribus HTR for improving the OCR of black letter in newspaper texts can be found here <INSERT LINK>. We used the text in the following years for testing:
+ 1780, 1790, 1800, 1810, 1820, 1830, 1840, 1850, 1860, 1870, 1880, 1890, 1904, 1910, 1915, 1929, 1939
+ 
 ## transcribors:
  - Isabelle Meraner
  - Camille Watter
