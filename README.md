@@ -14,23 +14,24 @@ work. If not, see <https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt>
 
 <b>If you use it, please indicate the source as "A, B and C, D. 2019. A Ground Truth for 18th Century until 20th Century Newspaper Texts from the Neue Zürcher Zeitung." University of Zurich, Zurich.</b>
 
-## content
+## Content
 This NZZ ground truth contains several directories:
- - `ABBYY_FineReader_XIX`: The original text provided by the NZZ from 2005. We extracted the images as well as the text with TET PDFLib an saved it as .tif files and .tetml files, respectively.The newspaper pages were OCR-ised with ABBYY FineReader XIX, a specialised version from ABBYY for gothic letter. 
- - `ABBYY_FineReader_Server11`: A version produced from Transkribus-internal (see below) ABBYY FineReader Engine 11.
- - `NZZ_groundtruth`: the manually corrected texts from the 167 seven pages of the NZZ.
-   - the ground truth contains 304,268 words and 43,151 lines.
+ - `xml`: a folder containing all the XML files (ABBYY output as well as ground truth)
+   - `ABBYY_FineReader_XIX`: The original text provided by the NZZ from 2005. We extracted the images as well as the text with TET PDFLib an saved it as .tif files and .tetml files, respectively.The newspaper pages were OCR-ised with ABBYY FineReader XIX, a specialised version from ABBYY for gothic letter. 
+   - `ABBYY_FineReader_Server11`: A version produced from Transkribus-internal (see below) ABBYY FineReader Engine 11.
+   - `NZZ_groundtruth`: the manually corrected texts from the 167 seven pages of the NZZ.
+    - the ground truth contains 304,268 words and 43,151 lines.
  - `img`: The images we extracted from the PDF files we received from the nzz.
 
-## sampling
+## Sampling
 From 1780 to 1947 we randomly sampled one title page per year, which gives us a total of 167 pages. We chose title pages to make sure not to sample pages containing advertisements or stock information. Since the NZZ had been published several times a day during certain periods, and since there were sometimes supplements, it is not guaranteed that all title pages are from the very first issue of the day. There were also title pages from supplements which have been sampled.
 
-## ground truth production
+## Ground truth production
 In order to speed up the process of the ground truth production, we uploaded the 167 images to Transkribus (<url>https://transkribus.eu/Transkribus/</url>) and extracted the text with the internal ABBYY FineReader Server 11. We then continued to use Transkribus to manually correct the text.
 
 When the transcription of about 120 pages was done, we had the Transkribus team train a HTR model with which we extracted the text from the pages which had not been transcribed at that point in time. This significantly speeded up the process.
 
-### guidelines
+### Guidelines
 Here some guidelines:
 
  - *punctuation*
@@ -61,7 +62,7 @@ There are pages which have been slightly cut at the right-hand side. this stems 
  Our paper about Transkribus HTR for improving the OCR of black letter in newspaper texts can be found here <INSERT LINK>. We used the text in the following years for testing:
  1780, 1790, 1800, 1810, 1820, 1830, 1840, 1850, 1860, 1870, 1880, 1890, 1904, 1910, 1915, 1929, 1939
  
-## transcribors:
+## Transcribors:
  - Isabelle Meraner
  - Camille Watter
  - Simon Clematide siclemat@ifi.uzh.ch - in case of questions
