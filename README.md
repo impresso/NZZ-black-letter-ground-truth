@@ -26,35 +26,34 @@ work. If not, see <https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt>
 ## Content
 This NZZ ground truth contains several directories:
  - `xml`: a folder containing all the XML files (ABBYY output as well as ground truth)
-   - `ABBYY_FineReader_XIX`: The original text provided by the NZZ from 2005. We extracted the images as well as the text with TET PDFLib an saved it as .tif files and .tetml files, respectively.The newspaper pages were OCR-ised with ABBYY FineReader XIX, a specialised version from ABBYY for gothic letter. 
+   - `ABBYY_FineReader_XIX`: The original OCRed material from 2005 provided by the NZZ in the form of PDF files. We extracted the images as well as the text with TET PDFLib an saved them as .tif files and .tetml files, respectively. The newspaper pages were OCR-ised with ABBYY FineReader XIX, an older product from ABBYY for gothic letter. 
    - `ABBYY_FineReader_Server11`: A version produced from Transkribus-internal (see below) ABBYY FineReader Engine 11.
-   - `NZZ_groundtruth`: the manually corrected texts from the 167 seven pages of the NZZ.
+   - `NZZ_groundtruth`: the manually corrected texts from the 167 pages of the NZZ.
     - the ground truth contains 304,268 words and 43,151 lines.
- - `img`: The images we extracted from the PDF files we received from the nzz.
+ - `img`: The images we extracted from the PDF files provided by the NZZ.
 
 ## Sampling
-From 1780 to 1947 we randomly sampled one title page per year, which gives us a total of 167 pages. We chose title pages to make sure not to sample pages containing advertisements or stock information. Since the NZZ had been published several times a day during certain periods, and since there were sometimes supplements, it is not guaranteed that all title pages are from the very first issue of the day. There were also title pages from supplements which have been sampled.
+From the time period 1780 to 1947, we randomly sampled one frontpage per year, resulting in a total of 167 pages. We chose frontpages because they typically contain highly relevant material and because we want to make sure not to sample pages containing advertisements or stock information. During certain periods, the NZZ was published several times a day, and there were supplements, too. Due to incomplete metadata, the sampling included frontpages from supplements.
 
 ## Ground truth production
-In order to speed up the process of the ground truth production, we uploaded the 167 images to Transkribus (<url>https://transkribus.eu/Transkribus/</url>) and extracted the text with the internal ABBYY FineReader Server 11. We then continued to use Transkribus to manually correct the text.
+In order to speed up the process of the ground truth production, we uploaded the 167 images to [Transkribus](https://transkribus.eu/Transkribus) and extracted the text with its internal ABBYY FineReader Server 11. We then used Transkribus to manually correct the text on the line level for all pages. For about 100 pages, we corrected on the word level.
 
-When the transcription of about 120 pages was done, we had the Transkribus team train a HTR model with which we extracted the text from the pages which had not been transcribed at that point in time. This significantly speeded up the process.
+When the transcription of 120 pages was finished, the Transkribus team trained an HTR model with which we recognized the text from the remaining pages. This significantly speeded up our process, however, these XML files do not contain any word-level information.
 
 ### Guidelines
-Here some guidelines:
+Here some guidelines we applied:
 
  - *punctuation*
    - the old writing styles use the equality sign "=" to split words over two lines. We transcribed this as "-", like we would use it today.
-   - special symbols were only rarely transcribed (sometimes the newspaper used a symbole like a triangle, a dagger or a cross to mark a specific canton or author)
-   - there are inconsistencies in the transcription of quotation marks. In some cases, we used the curly quotation marks (for quotation marks on the baseline (Anführungszeichen), whereas in others, the straight quotation marks were used (to mark the end of quotation (Schlusszeichen)).
+   - special symbols were only rarely transcribed (sometimes the newspaper used a symbol like a triangle, a dagger or a cross to mark a specific canton or author).
 
  - *spelling*
-   - in black letter, there is no distinction between capital "I" and capital "J". We decided to transcribe the words starting with either letter in the way current spelling rules would require it, e.g.: we would write "Jakob" instead of "Iakob", and "Insekt" instead of "Jnsekt".
+   - in black letter, there is no distinction between capital "I" and capital "J". We decided to transcribe the words starting with either letter in the way current spelling rules would require it, e.g. we would write "Jakob" instead of "Iakob", and "Insekt" instead of "Jnsekt".
    - the ligature "sz" is kept and transcribed as "ß"
-   - spaced letters (Sperrschrift) are fused using the merge tool of transkribus
-   - sometimes, hyphenated words contain spaces, e.g. "Landboten - Korrespondent". We adopted the current spelling "Landboten-Korrespondent" for such cases.
-   - the occurrence "N°" was always transcribed as "Nr."
-   - the long "s" has always been transcribed as normal "s".
+   - spaced letters (Sperrschrift) are fused (using the merge tool of transkribus for the word-level transcriptions)
+   - sometimes hyphenated words contain spaces, e.g. "Landboten - Korrespondent". We adopted the current spelling "Landboten-Korrespondent" for such cases.
+   -  "N°" is transcribed as "Nr.".
+   - Long "s" is transcribed as normal "s".
 
  - *regions*
    - in Transkribus, it is possible to either transcribe word-based or line-based. Generally, our ground truth is line-based. We have a line-based transcription for all pages. For the following pages, we also provide word-based transcriptions: **Word-based transcription for years:**
@@ -65,9 +64,10 @@ TOTAL: 134 years --> the word boxes for these years should also be right.
    - for the pages where we detected the text with the HTR model, we straightened the line boxes
  
  ## Additional remarks
-There are pages which have been slightly cut at the right-hand side. This stems from the digitisation process by the NZZ. for future versions, we should replace these pages.
+There are inconsistencies in the transcription of quotation marks. In some cases, we used the curly quotation marks (for quotation marks on the baseline (Anführungszeichen), whereas in others, the straight quotation marks were used (to mark the end of quotation (Schlusszeichen)).
+There are pages which have been slightly cut at the right-hand side. This stems from the digitisation process by the NZZ. 
 
-<b><span style="color: red">Please note that for pages which have only been corrected on the line level, the ground truth XML files still contains wrong information on the word level!</span></b>
+<b><span style="color: red">Please note that for pages which have only been corrected on the line level, the ground truth XML files still contains the uncorrected text on the word level!</span></b>
  
  ## Training and test data for Transkribus HTR model
  Our paper about Transkribus HTR for improving the OCR of black letter in newspaper texts can be found here <INSERT LINK>. We used the text in the following years for testing:
@@ -76,5 +76,5 @@ There are pages which have been slightly cut at the right-hand side. This stems 
 ## Transcribors:
  - Isabelle Meraner
  - Camille Watter
- - Simon Clematide siclemat@ifi.uzh.ch - in case of questions
+ - Simon Clematide siclemat@cl.uzh.ch
  - Phillip Ströbel pstroebel@cl.uzh.ch - in case of questions
