@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by the PDFlib Text Extraction Toolkit TET (www.pdflib.com) -->
+<TET xmlns="http://www.pdflib.com/XML/TET3/TET-3.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.pdflib.com/XML/TET3/TET-3.0
+ http://www.pdflib.com/XML/TET3/TET-3.0.xsd"
+ version="4.2">
+<Creation platform="Linux-x86_64" tetVersion="4.3p1" date="2018-01-22T12:01:54+01:00" />
+<Document filename="data/pdfs/nzz_19410929_0_0_a1.pdf" pageCount="1" filesize="4976000" linearized="false" pdfVersion="1.4">
+<DocInfo>
+<CreationDate>2012-12-22T02:07:32+01:00</CreationDate>
+<ModDate>2012-12-22T02:07:32+01:00</ModDate>
+<Producer>iText 2.1.0 (by lowagie.com)</Producer>
+</DocInfo>
+<Options>tetml={elements={docinfo=true docxmp=true options=true}}</Options>
+<Pages>
+<Page number="1" width="595" height="842">
+<Options>layouthint={header=true} layouteffort=extra docstyle=papers contentanalysis={bidilevel=ltr includeboxorder=1 linespacing=small punctuationbreaks=false} granularity=word layoutanalysis={layoutdetect=2 layoutrowhint={full separation=thick}} </Options>
+<Content granularity="word" dehyphenation="false" dropcap="false" font="false" geometry="false" shadow="false" sub="false" sup="false">
+<PlacedImage image="I0" x="0.00" y="0.00" width="592.48" height="842.00" />
+<Para>
+ <Word>
+  <Text>Montag</Text>
+  <Box llx="54.91" lly="808.76" urx="81.86" ury="816.84"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>Neue</Text>
+  <Box llx="137.12" lly="788.64" urx="201.29" ury="815.49"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>29.</Text>
+  <Box llx="33.22" lly="797.15" urx="44.27" ury="805.10"/>
+ </Word>
+ <Word>
+  <Text>September</Text>
+  <Box llx="47.78" lly="800.17" urx="83.14" ury="807.40"/>
+ </Word>
+ <Word>
+  <Text>1941</Text>
+  <Box llx="87.67" lly="796.68" urx="105.40" ury="804.65"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>Vlatt</Text>
+  <Box llx="57.34" lly="785.52" urx="75.45" ury="794.57"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>Zürcher</Text>
+  <Box llx="213.57" lly="781.09" urx="309.75" ury="809.01"/>
+ </Word>
+ <Word>
+  <Text>Zeitung</Text>
+  <Box llx="320.36" lly="802.39" urx="422.14" ury="832.91"/>
+ </Word>
+ <Word>
+  <Text>Mittagausgabe</Text>
+  <Box llx="462.33" lly="805.10" urx="513.75" ury="812.94"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>1533</Text>
+  <Box llx="485.54" lly="790.31" urx="503.71" ury="798.48"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>l/n&apos;l&apos;se</Text>
+  <Box llx="396.81" lly="340.44" urx="411.72" ury="345.93"/>
+ </Word>
+ <Word>
+  <Text>/.sirs</Text>
+  <Box llx="415.16" lly="340.29" urx="426.75" ury="345.78"/>
+ </Word>
+ <Word>
+  <Text>/in^n</Text>
+  <Box llx="430.18" lly="339.85" urx="444.06" ury="346.52"/>
+ </Word>
+ <Word>
+  <Text>l/nlsn</Text>
+  <Box llx="463.55" lly="340.25" urx="475.52" ury="345.38"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>&lt;;/&lt;;&gt;;n</Text>
+  <Box llx="478.87" lly="341.61" urx="486.29" ury="343.78"/>
+ </Word>
+ <Word>
+  <Text>/?n/&gt;;/!^/,&apos;&gt;;&gt;;i:^s</Text>
+  <Box llx="489.94" lly="341.20" urx="518.57" ury="345.02"/>
+ </Word>
+ <Word>
+  <Text>///&gt;;^m,</Text>
+  <Box llx="521.95" lly="341.20" urx="535.45" ury="345.32"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>im</Text>
+  <Box llx="404.24" lly="307.46" urx="409.30" ury="312.26"/>
+ </Word>
+ <Word>
+  <Text>5o/c/a/«!i/&apos;sin^&lt;;&apos;n</Text>
+  <Box llx="412.73" lly="308.31" urx="450.10" ury="313.05"/>
+ </Word>
+ <Word>
+  <Text>um</Text>
+  <Box llx="453.99" lly="307.12" urx="460.23" ury="311.61"/>
+ </Word>
+ <Word>
+  <Text>&lt;;/en</Text>
+  <Box llx="463.70" lly="308.60" urx="471.15" ury="311.91"/>
+ </Word>
+ <Word>
+  <Text>/&apos;seil</Text>
+  <Box llx="474.47" lly="307.22" urx="485.28" ury="312.71"/>
+ </Word>
+ <Word>
+  <Text>vom</Text>
+  <Box llx="488.42" lly="307.26" urx="497.49" ury="312.06"/>
+ </Word>
+ <Word>
+  <Text>/&apos;/annl&apos;nliiel</Text>
+  <Box llx="500.71" lly="306.65" urx="528.04" ury="312.31"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>V/.</Text>
+  <Box llx="191.12" lly="242.82" urx="202.04" ury="251.75"/>
+ </Word>
+</Para>
+<Para>
+ <Word>
+  <Text>&quot;&gt;;&gt;;&gt;;</Text>
+  <Box llx="135.00" lly="183.08" urx="140.41" ury="184.92"/>
+ </Word>
+ <Word>
+  <Text>&apos;,^1</Text>
+  <Box llx="156.39" lly="183.10" urx="166.21" ury="189.67"/>
+ </Word>
+</Para>
+</Content>
+</Page>
+</Pages>
+</Document>
+</TET>
