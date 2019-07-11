@@ -1,18 +1,27 @@
-# data-NZZ-gothic-ground-truth
+# Ground truth for Neue Zürcher Zeitung black letter period
 
 This is a small documentation of the creation of a ground truth for gothic letter. The OCR of gothic letter is still error-prone. In order to be able to assess the OCR quality of newspapers (and also in order to be able to train new models to improve the OCR), it is necessary to have a ground truth at one's disposal. The Neue Zürcher Zeitung (NZZ) has been publishing in black letter from its very first issue in 1780 until 1947.
 
 All the data, which includes .xml and image files, in this repository is licensed under a Creative Commons license as specified in the file LICENSE.txt. This ground truth can be used for academic purposes. 
 
-<WORK'S NAME> (c) by <AUTHOR'S NAME>
+Neue Zürcher Zeitung black letter ground truth (c) by Simon Clematide, Phillip Ströbel
 
-<WORK'S NAME> is licensed under a
+Neue Zürcher Zeitung black letter ground truth is licensed under a
 Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
 
 You should have received a copy of the license along with this
 work. If not, see <https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt>.
 
-<b>If you use it, please indicate the source as "A, B and C, D. 2019. A Ground Truth for 18th Century until 20th Century Newspaper Texts from the Neue Zürcher Zeitung." University of Zurich, Zurich.</b>
+<b>If you use it, please indicate the source as</b>
+`
+@inproceedings{clematide-stroebel-2019,
+  author = "S. Clematide and P. Ströbel",
+  title = "Improving OCR of Black Letter in Historical Newspapers: The Unreasonable Effectiveness of HTR Models on Low-Resolution Images",
+  year = 2019,
+  booktitle = "Proceedings of the Digital Humanities 2019, (DH2019)",
+  note = "accepted"
+}
+`
 
 ## Content
 This NZZ ground truth contains several directories:
@@ -56,7 +65,9 @@ TOTAL: 134 years --> the word boxes for these years should also be right.
    - for the pages where we detected the text with the HTR model, we straightened the line boxes
  
  ## Additional remarks
-There are pages which have been slightly cut at the right-hand side. this stems from the digitisation process by the NZZ. for future versions, we should replace these pages.
+There are pages which have been slightly cut at the right-hand side. This stems from the digitisation process by the NZZ. for future versions, we should replace these pages.
+
+<b><span style="color: red">Please note that for pages which have only been corrected on the line level, the ground truth XML files still contains wrong information on the word level!</span></b>
  
  ## Training and test data for Transkribus HTR model
  Our paper about Transkribus HTR for improving the OCR of black letter in newspaper texts can be found here <INSERT LINK>. We used the text in the following years for testing:
