@@ -58,8 +58,10 @@ This NZZ ground truth contains several directories:
  - Camille Watter
  - Simon Clematide siclemat@cl.uzh.ch
  - Phillip Ströbel pstroebel@cl.uzh.ch - in case of questions
+ 
+ Feel free to open issues if you've encountered a problem or any difficulties while working with this data set. Questions are also welcome.
 
-
+## Final remarks
 All the data, which includes .xml and image files, in this repository is licensed under a Creative Commons license as specified in the file LICENSE.txt. This ground truth can be used for academic purposes. 
 
 Neue Zürcher Zeitung black letter ground truth (c) by Phillip Ströbel and Simon Clematide
