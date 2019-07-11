@@ -1,11 +1,9 @@
 # Ground truth for Neue Zürcher Zeitung black letter period
 
-This is a small documentation of the creation of a ground truth for black letter. The OCR of black letter is still error-prone. In order to be able to assess the OCR quality of newspapers (and also in order to be able to train new models to improve the OCR), it is necessary to have a ground truth at one's disposal. The Neue Zürcher Zeitung (NZZ) has been publishing in black letter from its very first issue in 1780 until 1947.
-
-
+This is a small documentation of the creation of a ground truth for black letter. The OCR of black letter is still error-prone. In order to be able to assess the OCR quality of newspapers (and also in order to be able to train new models to improve the OCR), it is necessary to have a ground truth at one's disposal.
 
 ## Sampling
-From the time period 1780 to 1947, we randomly sampled one frontpage per year, resulting in a total of 167 pages. We chose frontpages because they typically contain highly relevant material and because we want to make sure not to sample pages containing exclusively advertisements or stock information. During certain periods, the NZZ was published several times a day, and there were supplements, too. Due to incomplete metadata, the sampling included frontpages from supplements.
+ The Neue Zürcher Zeitung (NZZ) has been publishing in black letter from its very first issue in 1780 until 1947. From the time period 1780 to 1947, we randomly sampled one frontpage per year, resulting in a total of 167 pages. We chose frontpages because they typically contain highly relevant material and because we want to make sure not to sample pages containing exclusively advertisements or stock information. During certain periods, the NZZ was published several times a day, and there were supplements, too. Due to incomplete metadata, the sampling included frontpages from supplements.
 
 ## Ground truth production
 In order to speed up the process of the ground truth production, we uploaded the 167 images to [Transkribus](https://transkribus.eu/Transkribus) and OCRed the text with its internal ABBYY FineReader Server 11. We then used Transkribus to manually correct the text. For about 100 pages, we corrected on the word level and the line level was automatically synchronize. For the rest of the pages, only the line level was corrected.
