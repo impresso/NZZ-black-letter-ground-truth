@@ -13,15 +13,14 @@ This NZZ ground truth contains several directories:
  - `img`: The images we extracted from the PDF files provided by the NZZ.
 
 ## Sampling
-From the time period 1780 to 1947, we randomly sampled one frontpage per year, resulting in a total of 167 pages. We chose frontpages because they typically contain highly relevant material and because we want to make sure not to sample pages containing advertisements or stock information. During certain periods, the NZZ was published several times a day, and there were supplements, too. Due to incomplete metadata, the sampling included frontpages from supplements.
+From the time period 1780 to 1947, we randomly sampled one frontpage per year, resulting in a total of 167 pages. We chose frontpages because they typically contain highly relevant material and because we want to make sure not to sample pages containing exclusively advertisements or stock information. During certain periods, the NZZ was published several times a day, and there were supplements, too. Due to incomplete metadata, the sampling included frontpages from supplements.
 
 ## Ground truth production
-In order to speed up the process of the ground truth production, we uploaded the 167 images to [Transkribus](https://transkribus.eu/Transkribus) and extracted the text with its internal ABBYY FineReader Server 11. We then used Transkribus to manually correct the text on the line level for all pages. For about 100 pages, we corrected on the word level.
+In order to speed up the process of the ground truth production, we uploaded the 167 images to [Transkribus](https://transkribus.eu/Transkribus) and OCRed the text with its internal ABBYY FineReader Server 11. We then used Transkribus to manually correct the text. For about 100 pages, we corrected on the word level and the line level was automatically synchronize. For the rest of the pages, only the line level was corrected.
 
 When the transcription of 120 pages was finished, the Transkribus team trained an HTR model with which we recognized the text from the remaining pages. This significantly speeded up our process, however, these XML files do not contain any word-level information.
 
 ### Guidelines
-Here some guidelines we applied:
 
  - *punctuation*
    - the old writing styles use the equality sign "=" to split words over two lines. We transcribed this as "-", like we would use it today.
@@ -44,7 +43,7 @@ TOTAL: 134 years --> the word boxes for these years should also be right.
    - for the pages where we detected the text with the HTR model, we straightened the line boxes
  
  ## Additional remarks
-There are inconsistencies in the transcription of quotation marks. In some cases, we used the curly quotation marks (for quotation marks on the baseline (Anführungszeichen), whereas in others, the straight quotation marks were used (to mark the end of quotation (Schlusszeichen)).
+There are some remaining inconsistencies in the transcription of quotation marks. In some cases, we used the curly quotation marks (for quotation marks on the baseline (Anführungszeichen), whereas in others, the straight quotation marks were used (to mark the end of quotation (Schlusszeichen)).
 There are pages which have been slightly cut at the right-hand side. This stems from the digitisation process by the NZZ. 
 
 <b><span style="color: red">Please note that for pages which have only been corrected on the line level, the ground truth XML files still contains the uncorrected text on the word level!</span></b>
@@ -53,7 +52,7 @@ There are pages which have been slightly cut at the right-hand side. This stems 
  Our paper about Transkribus HTR for improving the OCR of black letter in newspaper texts can be found here <INSERT LINK>. We used the text in the following years for testing:
  1780, 1790, 1800, 1810, 1820, 1830, 1840, 1850, 1860, 1870, 1880, 1890, 1904, 1910, 1915, 1929, 1939
  
-## Transcribors:
+## Transcribers:
  - Isabelle Meraner
  - Camille Watter
  - Simon Clematide siclemat@cl.uzh.ch
