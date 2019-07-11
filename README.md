@@ -31,15 +31,17 @@ TOTAL: 134 years --> the word boxes for these years should also be right.
    - moreover, we corrected the text regions where necessary
    - for the pages where we detected the text with the HTR model, we straightened the line boxes
  
- ## Additional remarks
-There are some remaining inconsistencies in the transcription of quotation marks. In some cases, we used the curly quotation marks (for quotation marks on the baseline (Anführungszeichen), whereas in others, the straight quotation marks were used (to mark the end of quotation (Schlusszeichen)).
+ ## Known issues and additional remarks
+There are some remaining inconsistencies in the transcription of quotation marks. In some cases, we used the curly quotation marks for quotation marks on the baseline, whereas in others, the straight quotation marks were used to mark the end of quotation.
+
 There are pages which have been slightly cut at the right-hand side. This stems from the digitisation process by the NZZ. 
 
 <b><span style="color: red">Please note that for pages which have only been corrected on the line level, the ground truth XML files still contains the uncorrected text on the word level!</span></b>
  
- ## Training and test data for Transkribus HTR model
- Our paper about Transkribus HTR for improving the OCR of black letter in newspaper texts can be found here <INSERT LINK>. We used the text in the following years for testing:
+ ## Training and test splits used for Transkribus HTR model evaluation
+ Our DH2019 paper about Transkribus HTR for improving the OCR of black letter in newspaper texts used the following years for testing:
  1780, 1790, 1800, 1810, 1820, 1830, 1840, 1850, 1860, 1870, 1880, 1890, 1904, 1910, 1915, 1929, 1939
+ The repository contains a text file with the exact list of names.
  
  ## Content
 This NZZ ground truth contains several directories:
@@ -60,7 +62,7 @@ This NZZ ground truth contains several directories:
 
 All the data, which includes .xml and image files, in this repository is licensed under a Creative Commons license as specified in the file LICENSE.txt. This ground truth can be used for academic purposes. 
 
-Neue Zürcher Zeitung black letter ground truth (c) by Simon Clematide, Phillip Ströbel
+Neue Zürcher Zeitung black letter ground truth (c) by Phillip Ströbel and Simon Clematide
 
 Neue Zürcher Zeitung black letter ground truth is licensed under a
 Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
