@@ -70,12 +70,12 @@ You should have received a copy of the license along with this
 work. If not, see <https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt>.
 
 <b>If you use it, please indicate the source as</b>
-`
+```
 @inproceedings{clematide-stroebel-2019,
-  author = "S. Clematide and P. Ströbel",
+  author = "Ströbel, Phillip and Clematide, Simon",
   title = "Improving OCR of Black Letter in Historical Newspapers: The Unreasonable Effectiveness of HTR Models on Low-Resolution Images",
   year = 2019,
   booktitle = "Proceedings of the Digital Humanities 2019, (DH2019)",
   note = "accepted"
 }
-`
+```
