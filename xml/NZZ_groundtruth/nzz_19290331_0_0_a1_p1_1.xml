@@ -19535,7 +19535,7 @@ dem hatte ich ihn nicht mehr gesehen."</Unicode>
                 <Word id="w_w1aab1c25b2b3b3ab1" language="German" custom="readingOrder {index:0;}">
                     <Coords points="1135,4091 1228,4091 1228,4124 1135,4124"/>
                     <TextEquiv>
-                        <Unicode>»Alles</Unicode>
+                        <Unicode>„Alles</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
                 </Word>
@@ -19554,13 +19554,13 @@ dem hatte ich ihn nicht mehr gesehen."</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>»Alles was war,</Unicode>
+                    <Unicode>„Alles was war,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
             <TextEquiv>
                 <Unicode>Sie begann einen Zigeunerrefrain zu summen:
-»Alles was war,</Unicode>
+„Alles was war,</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r_13_3" custom="readingOrder {index:51;}">
