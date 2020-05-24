@@ -26835,12 +26835,12 @@ Landwirt in Adliswil in Arbeit getreten.</Unicode>
                 <Word id="w_w1aab1c29b2b5c67ab1" language="German" custom="readingOrder {index:0;} unclear {offset:0; length:13;} comment {offset:0; length:13;comment:Divination\u0020-\u0020Divinakton?;}">
                     <Coords points="2820,5326 3037,5326 3037,5363 2820,5363"/>
                     <TextEquiv>
-                        <Unicode>Divinaktonen.</Unicode>
+                        <Unicode>Divinationen.</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>Divinaktonen.</Unicode>
+                    <Unicode>Divinationen.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
             </TextLine>
@@ -26878,7 +26878,7 @@ und Horn ihre jetzige Darstellung darauf stützten, so
 habe ich auch über Borodino, Dennewitz. Leipzig und
 1814 vielfach neues Licht verbreiten müssen durch
 eine auf Statistik und Dokumente gestützte Kette von
-Divinaktonen.</Unicode>
+Divinationen.</Unicode>
             </TextEquiv>
         </TextRegion>
         <SeparatorRegion id="r_17" custom="readingOrder {index:40;}">
