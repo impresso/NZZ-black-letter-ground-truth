@@ -1234,12 +1234,12 @@ per sechsspaltige Zeile.</Unicode>
                 <Word id="w_w1aab1c17b2c11b1ac93" language="German" custom="readingOrder {index:7;}">
                     <Coords points="3458,1016 3692,1016 3692,1042 3458,1042"/>
                     <TextEquiv>
-                        <Unicode>Annonceneredaktion</Unicode>
+                        <Unicode>Annoncenexpedition</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="5.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>Inserate und Reclamen sind einzusenden an die Annonceneredaktion</Unicode>
+                    <Unicode>Inserate und Reclamen sind einzusenden an die Annoncenexpedition</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0"/>
             </TextLine>
@@ -1365,7 +1365,7 @@ per sechsspaltige Zeile.</Unicode>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0"/>
             </TextLine>
             <TextEquiv>
-                <Unicode>Inserate und Reclamen sind einzusenden an die Annonceneredaktion
+                <Unicode>Inserate und Reclamen sind einzusenden an die Annoncenexpedition
 von Orell Füßli &amp; Cie. in Zürich und werden durch alle
 übrigen bekannten Annoncenbureaux vermittelt.</Unicode>
             </TextEquiv>
@@ -18367,7 +18367,7 @@ zu können. Was wir gefunden haben, ist Folgendes:</Unicode>
                 <Word id="w_w1aab1c35b2b3c15ac11" language="German" custom="readingOrder {index:1;}">
                     <Coords points="1109,4814 1279,4814 1279,4851 1109,4851"/>
                     <TextEquiv>
-                        <Unicode>Stiftprobst</Unicode>
+                        <Unicode>Stiftsprobst</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
                 </Word>
@@ -18414,7 +18414,7 @@ zu können. Was wir gefunden haben, ist Folgendes:</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>1500 Stiftprobst zu Solothurn. Im August 1503 er¬</Unicode>
+                    <Unicode>1500 Stiftsprobst zu Solothurn. Im August 1503 er¬</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
             </TextLine>
@@ -19314,7 +19314,7 @@ von Diesbach von Bern (Eidg. Abschiede III, 2, pag.
 März 10., vergl. Leu, VI. 76 f.), nach Leu (a. a. D)
 geboren 1478, Doctor der geistlichen Rechte von der Uni¬
 versität Siena, ward (nach Schmid a. a. D.) im Jahre
-1500 Stiftprobst zu Solothurn. Im August 1503 er¬
+1500 Stiftsprobst zu Solothurn. Im August 1503 er¬
 scheint er urkundlich als Probst (von Solothurn) und
 Prior von Vaucluse (Eidg. Absch. III, 2, pag. 239). Als
 der Jetzer-Handel zu Bern spielte, 1508, war Diesbach

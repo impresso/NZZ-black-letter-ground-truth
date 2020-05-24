@@ -337,7 +337,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <Coords points="1140,1688 235,1685 235,1720 1140,1723"/>
                 <Baseline points="235,1709 1140,1712"/>
                 <TextEquiv>
-                    <Unicode>ungleich tiefer stehenden Geschmack, dessen Tiesfstand gar</Unicode>
+                    <Unicode>ungleich tiefer stehenden Geschmack, dessen Tiefstand gar</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
             </TextLine>
@@ -472,7 +472,7 @@ es auch nur annähernd auf der gleichen künstlerische
 Höhe stehe oder dieselbe Befriedigung böte wie das Ver¬
 lorene. In jeder Stadt unterscheiden sich ja die neuern
 von den ältern Stadtteilen in erster Linie durch den
-ungleich tiefer stehenden Geschmack, dessen Tiesfstand gar
+ungleich tiefer stehenden Geschmack, dessen Tiefstand gar
 oft nicht einmal durch entsprechend höhere Zweckmäßig¬
 keit aufgewogen wird; es fehlt zudem an Charakter
 und Eigenart. Die Mehrzahl unserer modernen Bauten
@@ -2347,7 +2347,7 @@ kamen, ist Erwähnung getan.</Unicode>
                 <Coords points="2100,5320 1197,5320 1197,5358 2100,5358"/>
                 <Baseline points="1197,5347 2100,5347"/>
                 <TextEquiv>
-                    <Unicode>schildert und nach Art des von Schulze-Naumburg in</Unicode>
+                    <Unicode>schildert und nach Art des von Schultze-Naumburg in</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
             </TextLine>
@@ -2380,7 +2380,7 @@ dienen. Das letzte Kapitel „Zur Anwendung" betitelt,
 möchten wir jedem Leser zum zwei- und dreimaligen
 Lesen empfehlen. In anschaulichster Weise werden die
 Vorzüge einer charaktervollen, gesunden Bauart ge¬
-schildert und nach Art des von Schulze-Naumburg in
+schildert und nach Art des von Schultze-Naumburg in
 seinen „Kulturarbeiten" angewandten Weise mit Beispiel
 und Gegenbeispiel illustriert. Gleichzeitig wird auch die</Unicode>
             </TextEquiv>
@@ -2731,7 +2731,7 @@ diesem Wert beschrieben aus Liebe zu dem Heimatland."</Unicode>
                 <Coords points="3044,2363 2146,2357 2146,2393 3044,2399"/>
                 <Baseline points="2146,2382 3044,2388"/>
                 <TextEquiv>
-                    <Unicode>Tertes, sondern der Schule derer, die entdecken, die aus</Unicode>
+                    <Unicode>Textes, sondern der Schule derer, die entdecken, die aus</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
             </TextLine>
@@ -2778,7 +2778,7 @@ Nicole ist wirklich der vollkommene Vertreter der großen
 Philologenschule, nicht derjenigen der Pedanten, die in
 alle Unendlichkeit sich streiten wegen eines vergessenen
 Komnas oder eines schon tausendmal kommentierten
-Tertes, sondern der Schule derer, die entdecken, die aus
+Textes, sondern der Schule derer, die entdecken, die aus
 dem Staub der Manuskripte Menschen mit ihren
 Gedanken und Werken wieder aufleben lassen, die man
 längst für tot und vergessen hielt.</Unicode>
@@ -3795,7 +3795,7 @@ ehrtesten der Genfer Humanisten macht.</Unicode>
                 <Coords points="3994,2098 3093,2098 3093,2134 3994,2134"/>
                 <Baseline points="3093,2123 3994,2123"/>
                 <TextEquiv>
-                    <Unicode>und der Aukunft der Volksgesangvereine. Samstag,</Unicode>
+                    <Unicode>und der Ankunft der Volksgesangvereine. Samstag,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
             </TextLine>
@@ -3893,7 +3893,7 @@ in Zürich. (Mitg.) Das Organisationskomitee
 hat den Entwurf für das Festprogramm behandelt.
 Der offizielle Festbeginn fällt auf Freitag, den 14. Juli,
 mit dem Eintreffen der eidgenössischen Sängerfahne
-und der Aukunft der Volksgesangvereine. Samstag,
+und der Ankunft der Volksgesangvereine. Samstag,
 den 15. Juli: Wettgesänge der Volksgesangvereine
 deutscher Zunge; Sonntag, den 16. Juli: Offizieller
 Tag; Eintreffen der Kunstgesangvereine, Begrüßungs¬
@@ -4342,7 +4342,7 @@ Berlin.</Unicode>
                 <Coords points="4000,4081 3099,4081 3099,4114 4000,4114"/>
                 <Baseline points="3099,4104 4000,4104"/>
                 <TextEquiv>
-                    <Unicode>Kühl, Thusuelda. Um Ellwurt. Roman. Deutsche</Unicode>
+                    <Unicode>Kühl, Thusnelda. Um Ellwurt. Roman. Deutsche</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
             </TextLine>
@@ -4355,7 +4355,7 @@ Berlin.</Unicode>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
             </TextLine>
             <TextEquiv>
-                <Unicode>Kühl, Thusuelda. Um Ellwurt. Roman. Deutsche
+                <Unicode>Kühl, Thusnelda. Um Ellwurt. Roman. Deutsche
 Verlagsanstalt, Stuttgart.</Unicode>
             </TextEquiv>
         </TextRegion>
