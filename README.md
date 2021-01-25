@@ -25,8 +25,8 @@ When the transcription of 120 pages was finished, the Transkribus team trained a
 
  - *regions*
    - in Transkribus, it is possible to either transcribe word-based or line-based. Generally, our ground truth is line-based. We have a line-based transcription for all pages. For the following pages, we also provide word-based transcriptions: **Word-based transcription for years:**
-1780-1895, 1898, 1900, 1905, 1908, 1910, 1913, 1915, 1918, 1920, 1923, 1925, 1930, 1933, 1935, 1938, 1940, 1943, 1945, 1946
-TOTAL: 134 years --> the word boxes for these years should also be right.
+1780-1895, 1898, 1900, 1905, 1908, 1910, 1913, 1915, 1918, 1920, 1923 (without masthead), 1925, 1930, 1933, 1935, 1938, 1940, 1943, 1945, 1946
+TOTAL: 134 years --> the word boxes for these years should also be right. In general, there could be years where the masthead has not been corrected on the word level for the years indicated above.
    - we corrected all baselines, so the ground truth can be used to train HTR models in Transkribus
    - moreover, we corrected the text regions where necessary
    - for the pages where we detected the text with the HTR model, we straightened the line boxes
