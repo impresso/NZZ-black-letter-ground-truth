@@ -171,7 +171,7 @@ prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobia
                 <Coords points="1157,923 214,922 214,947 1157,948"/>
                 <Baseline points="214,939 1157,940"/>
                 <TextEquiv>
-                    <Unicode>Italien do. . Fr. 8.10 15.50 80.85</Unicode>
+                    <Unicode>Italien do. . Fr. 8.10 15.50 30.85</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1543918492529_185" custom="readingOrder {index:8;}">
@@ -196,7 +196,7 @@ Schweiz Bestellung beim Postbureau . .  „ 6.50 12.50 25.—
 do. mit Bezug unter Privatadresse . „ 8.— 15.— 80.—
 Deutschland Bestellung beim Postamt . Mk. 6.—
 Oesterreich do. . Kr. 11.37
-Italien do. . Fr. 8.10 15.50 80.85
+Italien do. . Fr. 8.10 15.50 30.85
 Rußland do. . Rbl. 3.06 6.12 12.24
 Uebrige Staaten des Weltpostvereins . Fr. 12.50 24.— 48.—</Unicode>
             </TextEquiv>
@@ -1521,7 +1521,7 @@ sekretariat. Der Bundesrat hat sich bekanntlich
                 <Coords points="1968,2167 1568,2170 1117,2158 1117,2197 1568,2209 1968,2206"/>
                 <Baseline points="1117,2186 1568,2198 1968,2195"/>
                 <TextEquiv>
-                    <Unicode>er doch Bericht und der Kommissionsreferent ist glück¬</Unicode>
+                    <Unicode>er doch Bericht und der Kommissionsrefereut ist glück¬</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
@@ -1649,7 +1649,7 @@ knüpft, haben wir keine große Garantie für richtige
 Verwendung des Geldes. Vor acht Tagen hat übrigens
 der Bundesrat erklärt, in so kurzer Zeit könne er die
 Angelegenheit nicht hinlänglich prüfen. Nun erstattet
-er doch Bericht und der Kommissionsreferent ist glück¬
+er doch Bericht und der Kommissionsrefereut ist glück¬
 lich, die Uebereinstimmung zwischen Bundesrat und
 Kommission konstatieren zu können. Die Freude Brüst¬
 leins, daß die Kreatur des Rates sich zu ihrem
@@ -1898,7 +1898,7 @@ sein.  </Unicode>
                 <Coords points="1951,3882 1104,3868 1104,3909 1951,3923"/>
                 <Baseline points="1104,3898 1951,3912"/>
                 <TextEquiv>
-                    <Unicode>nur hinsichtlich seiner Tätigkeit beim „Peuple‟, sonderns</Unicode>
+                    <Unicode>nur hinsichtlich seiner Tätigkeit beim „Peuple‟, sondern</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
@@ -1988,7 +1988,7 @@ enthalte. Die Versammlung hat verlangt, daß schon
 heute Bericht erstattet werde. Nun knüpft ja der Bun¬
 desrat Bedingungen an die weitern 5000 Fr. Er wird
 auch bei Herrn Sigg in Genf sich umsehen und zwar nicht
-nur hinsichtlich seiner Tätigkeit beim „Peuple‟, sonderns
+nur hinsichtlich seiner Tätigkeit beim „Peuple‟, sondern
 auch in der Richtung, ob nicht das Bundesgeld für
 internationale statt für nationale Zwecke teilweise Ver¬
 wendung findet. Die Verhältnisse in Genf sind es,
@@ -2445,7 +2445,7 @@ worden sei. Ueber diese Unterstützung sind aber zum</Unicode>
                 <Coords points="2873,2020 2023,2009 2023,2049 2873,2060"/>
                 <Baseline points="2023,2037 2873,2048"/>
                 <TextEquiv>
-                    <Unicode>Behörden legten Wert darauf, dass die Firma den</Unicode>
+                    <Unicode>Behörden legten Wert darauf, daß die Firma den</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
@@ -2593,7 +2593,7 @@ Werk trotz den größten Schwierigkeiten zu unsrer aller
 Freude, zur Freude des ganzen Volkes durchgeführt
 werden konnte. Nun ist auch er ein alter Mann ge¬
 worden. Wenn der Bericht des Bundesrates betont, die
-Behörden legten Wert darauf, dass die Firma den
+Behörden legten Wert darauf, daß die Firma den
 zweiten Tunnel ausbaue, weil ihre technische Erfahrung
 dem Werke zugute komme, darf man doch fragen, ob
 die technische Befähigung bei einem Manne noch zu
@@ -2625,7 +2625,7 @@ gewisse Rücksichten eintreten zu lassen.</Unicode>
                 <Coords points="2872,2709 2020,2698 2020,2738 2872,2749"/>
                 <Baseline points="2020,2726 2872,2737"/>
                 <TextEquiv>
-                    <Unicode>alle sich geirrt haben, die Geologen, die Techniker und</Unicode>
+                    <Unicode>alle sich geirrt haben, die Geologen, die Techinker und</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
@@ -2689,7 +2689,7 @@ gewisse Rücksichten eintreten zu lassen.</Unicode>
                 <Coords points="2869,3040 2016,3027 2016,3068 2869,3081"/>
                 <Baseline points="2016,3057 2869,3070"/>
                 <TextEquiv>
-                    <Unicode>über so ungeheure Summen erschrecken, die sich mit der</Unicode>
+                    <Unicode>über so ungeheure Summen erstrecken, die sich mit der</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
@@ -2817,7 +2817,7 @@ gewisse Rücksichten eintreten zu lassen.</Unicode>
                 <Coords points="2860,3688 2007,3688 2007,3728 2860,3728"/>
                 <Baseline points="2007,3716 2860,3716"/>
                 <TextEquiv>
-                    <Unicode>ziehung, weitgehende Versprechungen nicht gemacht</Unicode>
+                    <Unicode>ziehung weitgehende Versprechungen nicht gemacht</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
@@ -2943,7 +2943,7 @@ gewisse Rücksichten eintreten zu lassen.</Unicode>
             </TextLine>
             <TextEquiv>
                 <Unicode>Vergessen wir nicht, daß beim Werke des Simplons
-alle sich geirrt haben, die Geologen, die Techniker und
+alle sich geirrt haben, die Geologen, die Techinker und
 wir alle. Wir haben uns getäuscht in der national¬
 ökonomischen Bedeutung des Werkes. Heute wissen wir,
 daß der Nutzen desselben erst in der Zukunft liegt.
@@ -2951,7 +2951,7 @@ Wenn man unter solchen Verhältnissen nur den einen
 Teil, bloß weil er vertraglich gebunden ist, zur Inne¬
 haltung der schweren Bedingungen verhalten will, be¬
 geht man eine gewisse Ungerechtigkeit. Verträge, die sich
-über so ungeheure Summen erschrecken, die sich mit der
+über so ungeheure Summen erstrecken, die sich mit der
 Lösung von Fragen beschäftigen, welche zu den schwie¬
 rigsten der Technik gehören, sind eine ausnahmsweise
 Erscheinung. Wenn trotzdem Leute sich gefunden haben,
@@ -2967,7 +2967,7 @@ sich die Bedenken der Unternehmung erwahren, wenn
 neue Schwierigkeiten entstehen sollten, der Bund es
 doch bis zu den letzten Konsequenzen aus dem Vertrag
 kommen lassen wird. Vielleicht sind in der Be¬
-ziehung, weitgehende Versprechungen nicht gemacht
+ziehung weitgehende Versprechungen nicht gemacht
 worden. Allein wenn bei Unterhandlungen ein Teil
 wankend wird, sucht ihn der andere zu ermutigen durch
 Worte, deren Bedeutung nicht im Protokoll liegt. So
@@ -3691,7 +3691,7 @@ stellt der Redner nicht.</Unicode>
                 <Coords points="3781,3207 2922,3199 2922,3239 3781,3247"/>
                 <Baseline points="2922,3227 3781,3235"/>
                 <TextEquiv>
-                    <Unicode>Stationen im Wallis anhalten. Er wünscht den Umbau</Unicode>
+                    <Unicode>der Stationen im Wallis anhalten. Er wünscht den Umbau</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
@@ -3764,7 +3764,7 @@ stellt der Redner nicht.</Unicode>
 Heller und Freiburghaus. Speziell über den
 Kreis I erstattet Perrier Bericht. Seiler
 verwendet sich dafür, daß verschiedene Züge an mehr
-Stationen im Wallis anhalten. Er wünscht den Umbau
+der Stationen im Wallis anhalten. Er wünscht den Umbau
 der Stationen Martigny und Visp und verlangt bei
 Vergebung von Arbeiten bessere Berücksichtigung des
 Wallis. Die Stationsbeamten sollten wenigstens im

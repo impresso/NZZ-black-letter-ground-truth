@@ -568,16 +568,16 @@ Edle Anstalt zu Lyon). Schweiz (diplomatischer Besuch bey der Kaiserin Majestät
                 <Word id="word_1524471992819_39" language="German" custom="readingOrder {index:0;}">
                     <Coords points="399,920 269,920 269,886 616,882 669,882 803,884 803,919"/>
                     <TextEquiv>
-                        <Unicode>Großbritanien.</Unicode>
+                        <Unicode>Großbritannien.</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="12.0" bold="true"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>Großbritanien.</Unicode>
+                    <Unicode>Großbritannien.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Großbritanien.</Unicode>
+                <Unicode>Großbritannien.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r_14_2" custom="readingOrder {index:10;}">
@@ -932,7 +932,7 @@ Edle Anstalt zu Lyon). Schweiz (diplomatischer Besuch bey der Kaiserin Majestät
                 <Word id="word_1513373335320_2576" language="German" custom="readingOrder {index:7;}">
                     <Coords points="891,1123 752,1123 752,1085 891,1085"/>
                     <TextEquiv>
-                        <Unicode>beläuft</Unicode>
+                        <Unicode>beläuft,</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="12.0" bold="true"/>
                 </Word>
@@ -944,7 +944,7 @@ Edle Anstalt zu Lyon). Schweiz (diplomatischer Besuch bey der Kaiserin Majestät
                     <TextStyle fontFamily="Arial" fontSize="12.0" bold="true"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>mögens, das sich auf 13. Millionen Gulden beläuft erbt</Unicode>
+                    <Unicode>mögens, das sich auf 13. Millionen Gulden beläuft, erbt</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="12.0" bold="true"/>
             </TextLine>
@@ -1051,7 +1051,7 @@ Edle Anstalt zu Lyon). Schweiz (diplomatischer Besuch bey der Kaiserin Majestät
 zu Amsterdam bestandenen Handelshauses Hope und Comp.
 gestorben. Es war im Jahre 1794 . als er Amsterdam ver¬
 ließ, und sich nach England begab. Die Hälfte seines Ver¬
-mögens, das sich auf 13. Millionen Gulden beläuft erbt
+mögens, das sich auf 13. Millionen Gulden beläuft, erbt
 sein adoptirter Sohn, William Hope, der eine seiner
 Nichten geheirathet hat.</Unicode>
             </TextEquiv>
@@ -2459,7 +2459,7 @@ ist der älteste Graf des Reichs</Unicode>
                 <Word id="w_w1aab1c31b2b3c27ac49" language="German" custom="readingOrder {index:3;}">
                     <Coords points="502,2155 763,2155 763,2199 502,2199"/>
                     <TextEquiv>
-                        <Unicode>Parlemtärflagge</Unicode>
+                        <Unicode>Parlementärflagge</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="10.5"/>
                 </Word>
@@ -2478,7 +2478,7 @@ ist der älteste Graf des Reichs</Unicode>
                     <TextStyle fontFamily="Arial" fontSize="10.5"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>Fregatte, Tartar, unter Parlemtärflagge abgehen, um</Unicode>
+                    <Unicode>Fregatte, Tartar, unter Parlementärflagge abgehen, um</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
@@ -2672,12 +2672,12 @@ ist der älteste Graf des Reichs</Unicode>
                 <Word id="w_w1aab1c31b2b3c33ac93" language="German" custom="readingOrder {index:6;}">
                     <Coords points="841,2286 987,2288 987,2322 841,2320"/>
                     <TextEquiv>
-                        <Unicode>Ereigniß</Unicode>
+                        <Unicode>Ereigniß,</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="10.5"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>zu dienen, zu überbringen. Ein schmerzliches Ereigniß</Unicode>
+                    <Unicode>zu dienen, zu überbringen. Ein schmerzliches Ereigniß,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
@@ -2695,10 +2695,10 @@ den tapfern Dänen Beweise von Hochachtung zu geben, und
 so schnell als möglich den Leiden ihrer Gefangenschaft abzu¬
 helfen, und Niemand schätzet die Dänen, als edle Feinde,
 höher wie ich. Deßwegen wird Sr. Brittischen Majestät
-Fregatte, Tartar, unter Parlemtärflagge abgehen, um
+Fregatte, Tartar, unter Parlementärflagge abgehen, um
 Offiziere und Gemeine, bis zur Zahl von 300. Kriegsge¬
 fangenen, auf ihr Ehrenwort bis zu ihrer Auswechslung nicht
-zu dienen, zu überbringen. Ein schmerzliches Ereigniß</Unicode>
+zu dienen, zu überbringen. Ein schmerzliches Ereigniß,</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r_15_1" custom="readingOrder {index:15;}">
@@ -3895,7 +3895,7 @@ Gouverneur.”</Unicode>
                 <Word id="word_1513379761849_2781" custom="readingOrder {index:0;}">
                     <Coords points="1144,1682 988,1682 988,1633 1144,1633"/>
                     <TextEquiv>
-                        <Unicode>delshäufer</Unicode>
+                        <Unicode>delshäuser</Unicode>
                     </TextEquiv>
                 </Word>
                 <Word id="word_1513379761848_2780" custom="readingOrder {index:1;}">
@@ -3947,7 +3947,7 @@ Gouverneur.”</Unicode>
                     </TextEquiv>
                 </Word>
                 <TextEquiv>
-                    <Unicode>delshäufer erbieten sich, es zu übernehmen; zwey von Leip¬</Unicode>
+                    <Unicode>delshäuser erbieten sich, es zu übernehmen; zwey von Leip¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1513372193546_2464" custom="readingOrder {index:4;}">
@@ -3997,7 +3997,7 @@ Gouverneur.”</Unicode>
                 <Unicode>Dresden, 10. April. Die Stände beschäftigen sich mit
 einem Darleihen, welches nothwendig geworden ist, und da
 wenigstens 6. Millionen Thaler betragen soll. Drey Han¬
-delshäufer erbieten sich, es zu übernehmen; zwey von Leip¬
+delshäuser erbieten sich, es zu übernehmen; zwey von Leip¬
 zig und eines von Dresden .</Unicode>
             </TextEquiv>
         </TextRegion>

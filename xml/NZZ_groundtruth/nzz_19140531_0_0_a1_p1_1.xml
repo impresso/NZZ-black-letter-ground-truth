@@ -431,7 +431,7 @@ zu unserem Lande anders gestaltet haben würde.</Unicode>
                 <Coords points="1125,1606 243,1611 243,1650 1125,1645"/>
                 <Baseline points="243,1638 1125,1633"/>
                 <TextEquiv>
-                    <Unicode>hat sich eine eidgenössische Gesandtschaft, bei Lud¬</Unicode>
+                    <Unicode>hat sich eine eidgenössische Gesandtschaft bei Lud¬</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
@@ -549,7 +549,7 @@ zu unserem Lande anders gestaltet haben würde.</Unicode>
             <TextEquiv>
                 <Unicode>Die Beziehungen Genfs zur Eidgenossenschaft
 gehen bis ins 15. Jahrhundert zurück. Schon 1463
-hat sich eine eidgenössische Gesandtschaft, bei Lud¬
+hat sich eine eidgenössische Gesandtschaft bei Lud¬
 wig Xl. von Frankreich für die mit Vernichtung be¬
 drohte Genfer Messe verwendet, und 1477 hat
 Johann Ludwig, der Administrator, des Bistums
@@ -596,7 +596,7 @@ der berühmte Hugenottenname entstanden ist.</Unicode>
                 <Coords points="1132,2319 245,2321 245,2360 1132,2358"/>
                 <Baseline points="245,2349 1132,2347"/>
                 <TextEquiv>
-                    <Unicode>dere, „Zur Bewahrung von Leib und Gut" in Frei¬</Unicode>
+                    <Unicode>dere, „zur Bewahrung von Leib und Gut" in Frei¬</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
@@ -700,7 +700,7 @@ der berühmte Hugenottenname entstanden ist.</Unicode>
                 <Coords points="1135,2833 280,2833 280,2872 1135,2872"/>
                 <Baseline points="280,2860 1135,2860"/>
                 <TextEquiv>
-                    <Unicode>„Conseil des Hallebardes" zunichte, 1530 uötigten die</Unicode>
+                    <Unicode>„Conseil des Hallebardes" zunichte, 1530 nötigten die</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
@@ -739,7 +739,7 @@ der berühmte Hugenottenname entstanden ist.</Unicode>
                 <Unicode>Im Jahre 1513 ließen sich die Hauptgegner der
 savoyischen Umtriebe, die Philibert Vertelier, Be¬
 zanson Hugues, Jean Baud, Jean Taccon und an¬
-dere, „Zur Bewahrung von Leib und Gut" in Frei¬
+dere, „zur Bewahrung von Leib und Gut" in Frei¬
 burg als Bürger aufnehmen, und damit begann jener
 heroische Kampf auf Tod und Leben, in dem die
 Genfer Patrioten unterlegen wären, wenn nicht die
@@ -752,7 +752,7 @@ sie vor der Intervention der Schweizer fahren lassen.
 1519 zwang ihn der Auszug der Freiburger, zur
 Räumung Genfs, 1526 machte das Burgrecht mit
 Bern und Freiburg den Unterwerfungsbeschluß des
-„Conseil des Hallebardes" zunichte, 1530 uötigten die
+„Conseil des Hallebardes" zunichte, 1530 nötigten die
 beiden Städte den Herzog, im Frieden von St.
  Julien die Waadt für die Sicherheit Genfs zum
 Pfand zu setzen, und 1536 entriß ihm Bern das durch
@@ -781,7 +781,7 @@ Pfand zu setzen, und 1536 entriß ihm Bern das durch
                 <Coords points="1129,3107 238,3109 238,3148 1129,3146"/>
                 <Baseline points="238,3137 1129,3135"/>
                 <TextEquiv>
-                    <Unicode> detung der Verbindung mit der Schweiz. Bern</Unicode>
+                    <Unicode> deutung der Verbindung mit der Schweiz. Bern</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_80" primaryLanguage="German" custom="readingOrder {index:3;}">
@@ -923,7 +923,7 @@ Pfand zu setzen, und 1536 entriß ihm Bern das durch
             <TextEquiv>
                 <Unicode>Und wie seine Befreiung, so verdankt Genf seine
 Reformation und damit seine weltgeschichtliche Be¬
- detung der Verbindung mit der Schweiz. Bern
+ deutung der Verbindung mit der Schweiz. Bern
  lenkte die Propaganda Farels, wie auf die West¬
 schweiz überhaupt, so auch auf Genf; es hielt seine
  schühende Hand über die von Farel und Froment
@@ -1540,7 +1540,7 @@ konnte.</Unicode>
                 <Coords points="2055,3506 1167,3506 1167,3546 2055,3546"/>
                 <Baseline points="1167,3534 2055,3534"/>
                 <TextEquiv>
-                    <Unicode>die Schweiz sei. Noch vor der endgültigen Niederlage</Unicode>
+                    <Unicode>die Schweiz sei. Noch vor der endgiiltigen Niederlage</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
@@ -1627,7 +1627,7 @@ konnte.</Unicode>
                 <Unicode>Die Probe, die es fünfzehn Jahre hindurch mit
 der Franzosenherrschaft machte, brachte es ihm aber
 erst recht zum Bewußtsein, daß seine wahre Heimat
-die Schweiz sei. Noch vor der endgültigen Niederlage
+die Schweiz sei. Noch vor der endgiltigen Niederlage
 Napoleons schüttelte es das Fremdjoch ab und be¬
 reitete den eidgenössischen Truppen am 1. Juni 1814
 einen enthusiastischen Empfang, zum Beweis, „daß
@@ -2347,7 +2347,7 @@ Jahren neu ins Leben gerufene Großschiffahrt auf</Unicode>
                 <Coords points="3917,1244 3027,1244 3027,1282 3917,1282"/>
                 <Baseline points="3027,1271 3917,1271"/>
                 <TextEquiv>
-                    <Unicode>auf eine weitere bedeutende Steigerng des Güter¬</Unicode>
+                    <Unicode>auf eine weitere bedeutende Steigerung des Güter¬</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
@@ -2667,7 +2667,7 @@ Jahren neu ins Leben gerufene Großschiffahrt auf</Unicode>
 Lebensfähigteit des Gütertransports auf dieser Was¬
 serstraße, auch in ihrem gegenwärtigen unkorrigier¬
 ten Zustande, erwiesen, und es darf mit Sicherheit
-auf eine weitere bedeutende Steigerng des Güter¬
+auf eine weitere bedeutende Steigerung des Güter¬
 verkehrs gerechnet werden, sobald ein den besondern
 Verhältnissen dieser Oberrheinstrecke angepaßter
 Schiffspark zur Verfügung steht. Bisher haben deut¬
@@ -3470,7 +3470,7 @@ Grimm ursprünglich Regen bewirken.</Unicode>
                 <Coords points="2055,4746 1167,4743 1167,4782 2055,4785"/>
                 <Baseline points="1167,4770 2055,4773"/>
                 <TextEquiv>
-                    <Unicode>Frühjahrskleid tragen, als Pfingstfestschmuck, ver¬</Unicode>
+                    <Unicode>Frühjahrskleid tragen, als Pfingstfestschmuck ver¬</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
@@ -3589,7 +3589,7 @@ Grimm ursprünglich Regen bewirken.</Unicode>
             <TextEquiv>
                 <Unicode>Allgemein, werden, in Norddeutschland Birken¬
 zweige, die eben um diese Zeit noch ihr duftig grünes
-Frühjahrskleid tragen, als Pfingstfestschmuck, ver¬
+Frühjahrskleid tragen, als Pfingstfestschmuck ver¬
 wendet. Haus und Kirche prangen im Grün des
 Birkenlaubes. Hoch mit Birken beladene Wagen
 durchfahren die Straßen Berlins und rasch, sehr
@@ -4111,7 +4111,7 @@ Pfingstbräuchen berichtet uns Stanjeck.</Unicode>
                 <Coords points="3922,4754 3031,4754 3031,4791 3922,4791"/>
                 <Baseline points="3031,4780 3922,4780"/>
                 <TextEquiv>
-                    <Unicode>Ausgießung des heiligen Gleistes: „Und es geschah</Unicode>
+                    <Unicode>Ausgießung des heiligen Geistes: „Und es geschah</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
@@ -4165,7 +4165,7 @@ Pfingstbräuchen berichtet uns Stanjeck.</Unicode>
             </TextLine>
             <TextEquiv>
                 <Unicode>Das Pfingstfest ist ja die Erinnerung an die
-Ausgießung des heiligen Gleistes: „Und es geschah
+Ausgießung des heiligen Geistes: „Und es geschah
 ein Brausen vom Himmel als eines gewaltigen
 Windes und erfüllte das ganze Haus, da sie saßen
 (die Apostel) und man sah an ihnen Zungen verteilt,
@@ -4204,7 +4204,7 @@ Geistes". Früher aber liebte es das Volk, alles in</Unicode>
                 <Coords points="3920,5159 3033,5163 3033,5197 3920,5193"/>
                 <Baseline points="3033,5187 3920,5183"/>
                 <TextEquiv>
-                    <Unicode>den Füßen, oder mit einer Schere oder blankem</Unicode>
+                    <Unicode>den Füßen oder mit einer Schere oder blankem</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
@@ -4244,7 +4244,7 @@ Geistes". Früher aber liebte es das Volk, alles in</Unicode>
                 <Unicode>*) Der Bilwisschnitter, ursprünglich wohl
 ein gespenstisches Wesen, gilt jetzt meist als Hexen¬
 mann. Er macht, indem er, mit kleinen Sicheln an
-den Füßen, oder mit einer Schere oder blankem
+den Füßen oder mit einer Schere oder blankem
 Messer am linken Fuße, quer durch die Felder
 schreitet, fußbreite verwüstende Streifen durch das
 Getreide, und zieht es ganz oder zur Hälfte in seine

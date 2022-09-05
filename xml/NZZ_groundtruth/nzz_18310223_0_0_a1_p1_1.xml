@@ -2896,14 +2896,14 @@ Italien. — Schweiz. Lit. 6 (aus Zürich, Basel, St. Gallen, Aarau und Trogen.)
                 <Word id="w_w1aab1b9b2b3c55ac73" language="German" custom="readingOrder {index:5;}">
                     <Coords points="779,1964 835,1964 835,1993 779,1993"/>
                     <TextEquiv>
-                        <Unicode>dem</Unicode>
+                        <Unicode>des</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="7.0"/>
                 </Word>
                 <Word id="w_w1aab1b9b2b3c55ac81" language="German" custom="readingOrder {index:6;}">
                     <Coords points="856,1965 971,1965 971,1994 856,1994"/>
                     <TextEquiv>
-                        <Unicode>Vororte</Unicode>
+                        <Unicode>Vororts</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="7.0"/>
                 </Word>
@@ -5134,7 +5134,7 @@ Italien. — Schweiz. Lit. 6 (aus Zürich, Basel, St. Gallen, Aarau und Trogen.)
                     <TextStyle fontFamily="Arial" fontSize="7.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>sicht auf Stellung der Vororte und Kriegsraths angemessene Bestim¬</Unicode>
+                    <Unicode>sicht auf Stellung des Vororts und Kriegsraths angemessene Bestim¬</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="7.0"/>
             </TextLine>
@@ -5308,7 +5308,7 @@ mit dem größten Nachdruck, gegen die Vertagung. Endlich wurde mit
 21 Stimmen ein Aufschub beschlossen, in der Meinung, es soll das
 Gutachten der Commission den Ständen mitgetheilt werden. Und die
 Commission soll sich berathen, wie im Fall einer Vertagung, mit Hin¬
-sicht auf Stellung der Vororte und Kriegsraths angemessene Bestim¬
+sicht auf Stellung des Vororts und Kriegsraths angemessene Bestim¬
 mungen zu treffen sehen? Zürich und nachher Tessin behielten sich das
 Protokoll offen.</Unicode>
             </TextEquiv>
@@ -5766,7 +5766,7 @@ niß erhalten hat von dem von Bürgermeister und Regierungscommission</Unicode>
                     <TextStyle fontFamily="Arial" fontSize="7.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>zu Handen der Tagsatzung gerichteten Schreiben, welches dir Gesandt¬</Unicode>
+                    <Unicode>zu Handen der Tagsatzung gerichteten Schreiben, welches die Gesandt¬</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="7.0"/>
             </TextLine>
@@ -6241,7 +6241,7 @@ niß erhalten hat von dem von Bürgermeister und Regierungscommission</Unicode>
                     <TextStyle fontFamily="Arial" fontSize="7.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>zweyten, von der nämlichen Behörde unterm 8. Hornung an den Vor¬</Unicode>
+                    <Unicode>zweyten, von der namlichen Behörde unterm 8. Hornung an den Vor¬</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="7.0"/>
             </TextLine>
@@ -8236,7 +8236,7 @@ niß erhalten hat von dem von Bürgermeister und Regierungscommission</Unicode>
                 <Word id="w_w1aab1c11b2b1c69ac25" language="German" custom="readingOrder {index:2;}">
                     <Coords points="1531,2154 1572,2154 1572,2182 1531,2182"/>
                     <TextEquiv>
-                        <Unicode>dir</Unicode>
+                        <Unicode>die</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="7.0"/>
                 </Word>
@@ -8283,7 +8283,7 @@ niß erhalten hat von dem von Bürgermeister und Regierungscommission</Unicode>
                     <TextStyle fontFamily="Arial" fontSize="7.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>und ersucht dir Ehrengesandtschaften, die ihnen in gedruckten Abschriften</Unicode>
+                    <Unicode>und ersucht die Ehrengesandtschaften, die ihnen in gedruckten Abschriften</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="7.0"/>
             </TextLine>
@@ -8516,13 +8516,13 @@ niß erhalten hat von dem von Bürgermeister und Regierungscommission</Unicode>
             </TextLine>
             <TextEquiv>
                 <Unicode>des Kantons Basel am 30. Jenner 1831 an den eidgenössischen Vorort
-zu Handen der Tagsatzung gerichteten Schreiben, welches dir Gesandt¬
+zu Handen der Tagsatzung gerichteten Schreiben, welches die Gesandt¬
 schaft von Basel der mit Berathung der Angelegenheiten des Standes
 Basel beauftragten Commission in der Sitzung vom 1. Hornung Abends
 eingehändigt hatte, und wodurch von der Tagsatzung ein ernstes Ein¬
 schreiten gegen einen der Stadt Basel aus andern Kantonen drohenden
 Volksüberfall verlangt wird, — und nachdem sie gleichzeitig von einem
-zweyten, von der nämlichen Behörde unterm 8. Hornung an den Vor¬
+zweyten, von der namlichen Behörde unterm 8. Hornung an den Vor¬
 ort gerichteten Schreiben Einsicht genommen hat, vermittelst dessen die¬
 selbe einerseits das am 8. Hornung vom großen Rath des Standes Ba¬
 sel erlassene Amnestiegesetz, und anderseits dasjenige Kreisschreiben mit¬
@@ -8549,7 +8549,7 @@ tungen, solche Verfügungen treffen, wodurch jede gewaltsame Einmischung
 der Bevölkerung eines oder mehrerer Kantone in die Angelegenheiten an¬
 derer Stande verhindert, und somit von dem gemeinsamen Vaterland ein
 dasselbe in so hohem Maße gefährdendes Ereigniß abgewendet werde, —
-und ersucht dir Ehrengesandtschaften, die ihnen in gedruckten Abschriften
+und ersucht die Ehrengesandtschaften, die ihnen in gedruckten Abschriften
 zu übergebende heutige Verhandlung an ihre hohe Regierungen ohne
 Zögerung zu befördern, damit die löbl. Stände unverweilte und um¬
 ständliche Kenntniß von dem bisher in der Sache Vorgegangenen erhalten."</Unicode>
@@ -9234,7 +9234,7 @@ ständliche Kenntniß von dem bisher in der Sache Vorgegangenen erhalten."</Unic
                 <Word id="w_w1aab1c11b2b5c17ab9" language="German" custom="readingOrder {index:1;}">
                     <Coords points="1410,2645 1502,2645 1502,2682 1410,2682"/>
                     <TextEquiv>
-                        <Unicode>gemäß</Unicode>
+                        <Unicode>gemaß</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="7.0"/>
                 </Word>
@@ -9295,7 +9295,7 @@ ständliche Kenntniß von dem bisher in der Sache Vorgegangenen erhalten."</Unic
                     <TextStyle fontFamily="Arial" fontSize="7.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>den gemäß modificirt werden. Insbesondere soll ein beförderlich zu er¬</Unicode>
+                    <Unicode>den gemaß modificirt werden. Insbesondere soll ein beförderlich zu er¬</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="7.0"/>
             </TextLine>
@@ -9819,7 +9819,7 @@ kleine Minderheit ward nicht gezählt) angenommen: „Das bisherige
 gesetzliche System, hinsichtlich des Erfordernisses obrigkeitlicher Bewilligung
 für einige an bestimmte Localitäten gebundene Gewerbe, als Tavernen¬
 Wirthschaften, Metzgen u. s. f. soll fortbestehen, jedoch den Zeitumstän¬
-den gemäß modificirt werden. Insbesondere soll ein beförderlich zu er¬
+den gemaß modificirt werden. Insbesondere soll ein beförderlich zu er¬
 lassendes Gesetz Vorsorge treffen, daß den Forderungen des Gemein¬
 wohls und den vorhandenen örtlichen Bedürfnissen durch Ertheilung der
 erforderlichen Bewilligungen vorzugsweise an Gemeinden, in freyem Sinne

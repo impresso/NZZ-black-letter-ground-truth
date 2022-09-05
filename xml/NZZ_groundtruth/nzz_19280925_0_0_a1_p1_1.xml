@@ -328,12 +328,12 @@ Expedition:  „ 11, „ „ 6109,</Unicode>
                 <Coords points="2280,768 1254,768 1253,788 2279,788"/>
                 <Baseline points="1253,786 2279,786"/>
                 <TextEquiv>
-                    <Unicode>Druckerei: Goethestraße 10, „ „ 4488, Postcheck VIII/3144</Unicode>
+                    <Unicode>Druckerei: Goethestraße 10, „ „ 4488, Postcheck VIII/5144</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="5.0" bold="true"/>
             </TextLine>
             <TextEquiv>
-                <Unicode>Druckerei: Goethestraße 10, „ „ 4488, Postcheck VIII/3144</Unicode>
+                <Unicode>Druckerei: Goethestraße 10, „ „ 4488, Postcheck VIII/5144</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r_6_5" custom="readingOrder {index:14;}">
@@ -460,12 +460,12 @@ Expedition:  „ 11, „ „ 6109,</Unicode>
                 <Coords points="3474,816 2401,816 2401,839 3474,839"/>
                 <Baseline points="2401,837 3474,837"/>
                 <TextEquiv>
-                    <Unicode>Filiale (Annoncen und Abonnemente) Bahnhofstr. 64. Telephon Uto 2442</Unicode>
+                    <Unicode>Filiale (Annoncen und Abonnemente): Bahnhofstr. 64. Telephon Uto 2442</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>Theaterstraße 3, Telephon Hottingen 6934, Postscheck-Konto VllI/1264
-Filiale (Annoncen und Abonnemente) Bahnhofstr. 64. Telephon Uto 2442</Unicode>
+Filiale (Annoncen und Abonnemente): Bahnhofstr. 64. Telephon Uto 2442</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r_8_1" custom="readingOrder {index:23;}">
@@ -1876,7 +1876,7 @@ archie leben weiter, obwohl sie sich in Italien
                 <Coords points="1756,3889 922,3889 922,3915 1756,3915"/>
                 <Baseline points="922,3913 1756,3913"/>
                 <TextEquiv>
-                    <Unicode>militärische Hilseleistung zugunsten von</Unicode>
+                    <Unicode>militärische Hilfeleistung zugunsten von</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -1897,7 +1897,7 @@ gearbeitet und von der ersten und dritten Kom¬
 mission in ihre endgültige Fassung gebracht worden
 waren. Eine interessante Debatte entspann sich
 über die Aufnahme einer Bestimmung über die
-militärische Hilseleistung zugunsten von</Unicode>
+militärische Hilfeleistung zugunsten von</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r_11_1" custom="readingOrder {index:37;}">
@@ -2040,7 +2040,7 @@ lung genommen hat.</Unicode>
                 <Coords points="2616,1420 1789,1420 1789,1454 2616,1454"/>
                 <Baseline points="1789,1444 2616,1444"/>
                 <TextEquiv>
-                    <Unicode>schlusses von Nichtangriffs- und Hilseleistungsver¬</Unicode>
+                    <Unicode>schlusses von Nichtangriffs- und Hilfeleistungsver¬</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
@@ -2162,7 +2162,7 @@ Union befürwortet worden war, ist grundsätzlich
 zulässig, wird aber nicht für alle Gebiete als ge¬
 eignet empfohlen. Was die guten Dienste des
 Völkerbundsrates für die Erleichterung des Ab¬
-schlusses von Nichtangriffs- und Hilseleistungsver¬
+schlusses von Nichtangriffs- und Hilfeleistungsver¬
 trägen anbetrifft, so wird entsprechend der von den
 ungarischen Delegierten Graf Apponyi und Gene¬
 ral Tanczos vorgebrachten Forderung betont, daß
@@ -2803,7 +2803,7 @@ Gerichtshof unterbreitet werde.</Unicode>
                 <Coords points="3491,1812 2659,1815 2659,1851 3491,1848"/>
                 <Baseline points="2659,1840 3491,1837"/>
                 <TextEquiv>
-                    <Unicode>Br.-Korr.) Der Bundesvorstand des „Stahl-</Unicode>
+                    <Unicode>Br.-Korr.) Der Bundesvorstand des „Stahl¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_275" primaryLanguage="German" custom="readingOrder {index:3;}">
@@ -2997,7 +2997,7 @@ Gerichtshof unterbreitet werde.</Unicode>
             <TextEquiv>
                 <Unicode>Volksbegehren auf Aenderung der Ver¬
 fassung. Berlin, 24. Sept. (Tel. unseres
-Br.-Korr.) Der Bundesvorstand des „Stahl-
+Br.-Korr.) Der Bundesvorstand des „Stahl¬
 helms" hat gestern in Magdeburg eine Reso¬
 lution gefaßt, in der die Bundesleitung beauf¬
 tragt wird, ein Volksbegehren über die Aende¬
@@ -3273,7 +3273,7 @@ Demokratie aussichtslos sein wird.</Unicode>
                 <Coords points="3501,3883 2667,3883 2667,3914 3501,3914"/>
                 <Baseline points="2667,3911 3501,3911"/>
                 <TextEquiv>
-                    <Unicode>leiner stabilen Regierung auf der Basis der Gro¬</Unicode>
+                    <Unicode>einer stabilen Regierung auf der Basis der Gro¬</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
@@ -3282,7 +3282,7 @@ Demokratie aussichtslos sein wird.</Unicode>
 24. Sept. (Tel. unseres Br.-Korr.) Die „Deutsche
 Tageszeitung" beschäftigt sich mit den Ausfüh¬
 rungen der „Germania" über die Notwendigkeit
-leiner stabilen Regierung auf der Basis der Gro¬</Unicode>
+einer stabilen Regierung auf der Basis der Gro¬</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r_15_1" custom="readingOrder {index:51;}">
@@ -4320,7 +4320,7 @@ der Nacht greifen über die Wipfel und verschlingen</Unicode>
                 <Coords points="3503,4092 2667,4092 2667,4132 3503,4132"/>
                 <Baseline points="2667,4120 3503,4120"/>
                 <TextEquiv>
-                    <Unicode>ein wahrhaft teuflisches Quaken, Krachzen und</Unicode>
+                    <Unicode>ein wahrhaft teuflisches Quaken, Krächzen und</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
             </TextLine>
@@ -4336,7 +4336,7 @@ der Nacht greifen über die Wipfel und verschlingen</Unicode>
                 <Unicode>die Erde. Ein Ochsenfrosch erhebt seine knarrende
 Stimme. Das ist wie ein Signal. Tausendfach
 kommt die Antwort. Ringsum im Dunkel ertönt
-ein wahrhaft teuflisches Quaken, Krachzen und
+ein wahrhaft teuflisches Quaken, Krächzen und
 Schnarren.</Unicode>
             </TextEquiv>
         </TextRegion>

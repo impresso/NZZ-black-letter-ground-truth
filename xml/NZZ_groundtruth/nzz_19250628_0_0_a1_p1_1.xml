@@ -882,11 +882,11 @@ Expedition: „ 11, „ „ 6109,</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>Druckerei: „ 11, „ „ 4488, Postcheck VIII/3144</Unicode>
+                    <Unicode>Druckerei: „ 11, „ „ 4488, Postcheck VIII/5144</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Druckerei: „ 11, „ „ 4488, Postcheck VIII/3144</Unicode>
+                <Unicode>Druckerei: „ 11, „ „ 4488, Postcheck VIII/5144</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r_8_5" custom="readingOrder {index:16;}">

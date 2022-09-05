@@ -1949,7 +1949,7 @@ Volk bezeugte die größte Freude über seine Wahl.</Unicode>
                 <Word id="w_w1aab1c19b2b3b7ac67" language="German" custom="readingOrder {index:5;}">
                     <Coords points="685,1452 863,1452 863,1488 685,1488"/>
                     <TextEquiv>
-                        <Unicode>fränzösische</Unicode>
+                        <Unicode>französische</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="10.5"/>
                 </Word>
@@ -1961,7 +1961,7 @@ Volk bezeugte die größte Freude über seine Wahl.</Unicode>
                     <TextStyle fontFamily="Arial" fontSize="10.5"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>nachtete der nach Wien bestimmte fränzösische Ge¬</Unicode>
+                    <Unicode>nachtete der nach Wien bestimmte französische Ge¬</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
@@ -3086,7 +3086,7 @@ Volk bezeugte die größte Freude über seine Wahl.</Unicode>
                 <Unicode>Stuttgard, 16 Sept. Am 14 passirte Graf
 Ludwig Kobenzl auf seiner Rükreise von Paris
 nach Wien durch Kanstadt; am nemlichen Tage über¬
-nachtete der nach Wien bestimmte fränzösische Ge¬
+nachtete der nach Wien bestimmte französische Ge¬
 sandte Champagny mit seinem Gefolge in Stutt¬
 gard. Der neue russische Gesandte in Frankreich,
 Graf Markow, traf am 9 in Frankfurt ein, und
@@ -4907,7 +4907,7 @@ auszuliefern.</Unicode>
                 <Word id="w_w1aab1c27b2b5b3ab1" language="German" custom="readingOrder {index:0;}">
                     <Coords points="959,1813 1094,1813 1094,1858 959,1858"/>
                     <TextEquiv>
-                        <Unicode>aufsicht</Unicode>
+                        <Unicode>Aufsicht</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="10.5"/>
                 </Word>
@@ -4940,7 +4940,7 @@ auszuliefern.</Unicode>
                     <TextStyle fontFamily="Arial" fontSize="10.5"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>aufsicht über sie Censur-Commissionen errichtet,</Unicode>
+                    <Unicode>Aufsicht über sie Censur-Commissionen errichtet,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
@@ -5398,12 +5398,12 @@ auszuliefern.</Unicode>
                 <Word id="w_w1aab1c29b2b1b5b1b1" language="German" custom="readingOrder {index:6;}">
                     <Coords points="1732,2113 1791,2113 1791,2145 1732,2145"/>
                     <TextEquiv>
-                        <Unicode>da</Unicode>
+                        <Unicode>da¬</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="12.0" italic="true"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>dem die mit Frankreich entstandenen Irrungen da</Unicode>
+                    <Unicode>dem die mit Frankreich entstandenen Irrungen da¬</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_84" primaryLanguage="German" custom="readingOrder {index:17;}">
@@ -5477,7 +5477,7 @@ ten Schaden zu ersezen, aufgehoben worden, und
 es besteht in dieser Hinsicht kein Unterschied zwischen
 jüdischen u. christlichen Gemeinden mehr. Dage¬
 gen sind allerwerts wo Juden wohnen, zur Polizei¬
-aufsicht über sie Censur-Commissionen errichtet,
+Aufsicht über sie Censur-Commissionen errichtet,
 die aus christlichen und jüdischen Beifiziern bestehn.
 — In der Petersburger Hofzeitung steht in dem
 Verzeichnisse derer welche von dort abzureisen Wil¬
@@ -5485,7 +5485,7 @@ lens sind: „Düroc, erster Adjutant des Ober-Con¬
 suls der franz. Republik.” — Die Verhältnisse
 unsers Hofes mit den auswärtigen Mächten sind
 noch fast alle sehr freundschaftlich, besonders seit
-dem die mit Frankreich entstandenen Irrungen da
+dem die mit Frankreich entstandenen Irrungen da¬
 durch beseitigt sind, daß unser König unter gewis¬</Unicode>
             </TextEquiv>
         </TextRegion>

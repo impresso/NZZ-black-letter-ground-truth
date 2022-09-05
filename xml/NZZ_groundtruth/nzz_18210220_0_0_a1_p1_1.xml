@@ -913,7 +913,7 @@ Alerahder und des Grafen Istria. Tagsbefehl des General Frimont. Mannigfaltiges 
                     <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>in ihrem Sitzungspallaste den Eyd ab welcher lautet, wie</Unicode>
+                    <Unicode>in ihrem Sitzungspallaste den Eyd ab, welcher lautet, wie</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
@@ -1390,7 +1390,7 @@ Alerahder und des Grafen Istria. Tagsbefehl des General Frimont. Mannigfaltiges 
             <TextEquiv>
                 <Unicode>Am 26. legten die neuen Cortes, nachdem sie vorerst
 in der Hauptkirche des H. Geistes, der Messe, beygewohnt,
-in ihrem Sitzungspallaste den Eyd ab welcher lautet, wie
+in ihrem Sitzungspallaste den Eyd ab, welcher lautet, wie
 folgt: „Ich schwöre, von der mir anvertrauten Gewalt
 getreuen Gebrauch zu machen, die Römisch-Catholische
 Religion und die Dynastie des Hauses Braganza auf¬
@@ -1736,7 +1736,7 @@ Braamcamp von Sobral erklärt.</Unicode>
                 <Word id="w_w1aab1c25b2b9c11ab1" language="German" custom="readingOrder {index:0;}">
                     <Coords points="61,1570 140,1570 140,1602 61,1602"/>
                     <TextEquiv>
-                        <Unicode>lichren</Unicode>
+                        <Unicode>lichen</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
                 </Word>
@@ -1783,7 +1783,7 @@ Braamcamp von Sobral erklärt.</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>lichren Richter zu Madrid zur Deportation verurtheilt</Unicode>
+                    <Unicode>lichen Richter zu Madrid zur Deportation verurtheilt</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
@@ -1807,7 +1807,7 @@ dauernde Ruhe: und daß der Kapuziuer-General, Franz
 de Solchaga, wegen einer sogenannten ehrerbietigen an
 den König und die Cortes gegen die vorgenommenen geist¬
 lichen Reformen gerichteten Adresse, von dem erstinstanz¬
-lichren Richter zu Madrid zur Deportation verurtheilt
+lichen Richter zu Madrid zur Deportation verurtheilt
 wurde.</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -1910,7 +1910,7 @@ wurde.</Unicode>
                 <Word id="w_w1aab1c25b2b9c19ab7" language="German" custom="readingOrder {index:1;}">
                     <Coords points="104,1738 190,1738 190,1771 104,1771"/>
                     <TextEquiv>
-                        <Unicode>Febr)</Unicode>
+                        <Unicode>Febr.)</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
                 </Word>
@@ -1964,7 +1964,7 @@ wurde.</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>5. Febr) die Minister durchs dickste Roth gezogen worden,</Unicode>
+                    <Unicode>5. Febr.) die Minister durchs dickste Roth gezogen worden,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
@@ -2701,7 +2701,7 @@ wurde.</Unicode>
             </TextLine>
             <TextEquiv>
                 <Unicode>Nachdem in zweyen Sitzungen des Unterhauses (4. und
-5. Febr) die Minister durchs dickste Roth gezogen worden,
+5. Febr.) die Minister durchs dickste Roth gezogen worden,
 wurde dann doch die Motion des Marquis von Tavistock
 den König zu bitten, dieselben zu verabscheiden, mit nicht
 völlig zwey Drittheil Stimmen (324. gegen 178.) verwor¬
@@ -4395,7 +4395,7 @@ der Obriste Faboier seines Arrestes entlassen.</Unicode>
                 <Word id="w_w1aab1c27b2c15b1ac57" language="German" custom="readingOrder {index:4;}">
                     <Coords points="1396,1810 1507,1810 1507,1851 1396,1851"/>
                     <TextEquiv>
-                        <Unicode>Freulich</Unicode>
+                        <Unicode>Freylich</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
                 </Word>
@@ -4428,7 +4428,7 @@ der Obriste Faboier seines Arrestes entlassen.</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>mehr stürmisch als wichtig. Freulich ging, auch bey der</Unicode>
+                    <Unicode>mehr stürmisch als wichtig. Freylich ging, auch bey der</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
@@ -4480,12 +4480,12 @@ der Obriste Faboier seines Arrestes entlassen.</Unicode>
                 <Word id="w_w1aab1c27b2c15b3ad105" language="German" custom="readingOrder {index:6;}">
                     <Coords points="1710,1860 1818,1860 1818,1893 1710,1893"/>
                     <TextEquiv>
-                        <Unicode>ziemiich</Unicode>
+                        <Unicode>ziemlich</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>geringsten Veranlassung das Absehen der Liberalen ziemiich</Unicode>
+                    <Unicode>geringsten Veranlassung das Absehen der Liberalen ziemlich</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
@@ -5009,8 +5009,8 @@ der Obriste Faboier seines Arrestes entlassen.</Unicode>
             </TextLine>
             <TextEquiv>
                 <Unicode>Die Sitzungen der Deputirten-Kammer waren fürdauernd
-mehr stürmisch als wichtig. Freulich ging, auch bey der
-geringsten Veranlassung das Absehen der Liberalen ziemiich
+mehr stürmisch als wichtig. Freylich ging, auch bey der
+geringsten Veranlassung das Absehen der Liberalen ziemlich
 deutlich dahin, das Franzöische Militär ihrer Sache
 immer geneigter zu machen, so wie hingegen die rechte
 Seite immer bemühter seyn muß, diese äußerste Gefährde

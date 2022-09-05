@@ -294,7 +294,7 @@ Monat Monate Monate Monate</Unicode>
                 <Coords points="1941,806 2535,806 2536,839 1942,839"/>
                 <Baseline points="1942,834 2536,834"/>
                 <TextEquiv>
-                    <Unicode>Druckerei: Goethestr. 10, Postcheck VIII/3144</Unicode>
+                    <Unicode>Druckerei: Goethestr. 10, Postcheck VIII/5144</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1539158179702_21" custom="readingOrder {index:2;}">
@@ -313,7 +313,7 @@ Monat Monate Monate Monate</Unicode>
             </TextLine>
             <TextEquiv>
                 <Unicode>Redaktion u. Expedition: Falkenstr. 11
-Druckerei: Goethestr. 10, Postcheck VIII/3144
+Druckerei: Goethestr. 10, Postcheck VIII/5144
 Fürsorge-Abteilung: Postcheck VIII/5602
 Administration: Theaterstr. 3, „ VIII/645</Unicode>
             </TextEquiv>

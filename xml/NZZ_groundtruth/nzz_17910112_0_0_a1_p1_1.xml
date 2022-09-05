@@ -472,7 +472,7 @@
                 <Word id="w_w1aab1c29b2b3b9ac11" language="German" custom="readingOrder {index:1;}">
                     <Coords points="261,1031 415,1031 415,1071 261,1071"/>
                     <TextEquiv>
-                        <Unicode>feyerlche</Unicode>
+                        <Unicode>feyerliche</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="11.0"/>
                 </Word>
@@ -512,7 +512,7 @@
                     <TextStyle fontFamily="Arial" fontSize="11.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>eine feyerlche Visite abgestattet, und ihnen zur</Unicode>
+                    <Unicode>eine feyerliche Visite abgestattet, und ihnen zur</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="11.0"/>
             </TextLine>
@@ -664,7 +664,7 @@
                 <Word id="w_w1aab1c29b2b3c15ac73" language="German" custom="readingOrder {index:7;}">
                     <Coords points="868,1142 975,1142 975,1180 868,1180"/>
                     <TextEquiv>
-                        <Unicode>haben,</Unicode>
+                        <Unicode>haben</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="11.0"/>
                 </Word>
@@ -676,7 +676,7 @@
                     <TextStyle fontFamily="Arial" fontSize="11.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>aus den Herzen des Volks flossen, so haben, die</Unicode>
+                    <Unicode>aus den Herzen des Volks flossen, so haben die</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="11.0"/>
             </TextLine>
@@ -942,10 +942,10 @@
 oder, wie man sie in Paris nennt, die Damen
 von der Halle, haben den Repräsentanten der
 Nazion am Vorabend des letzten Tages im Jahre
-eine feyerlche Visite abgestattet, und ihnen zur
+eine feyerliche Visite abgestattet, und ihnen zur
 glücklichen Beendigung ihres Jahrwerks Glück
 gewünscht. Da diese Glückswünsche so eigentlich
-aus den Herzen des Volks flossen, so haben, die
+aus den Herzen des Volks flossen, so haben die
 Stände dieselben mit grosser Theilnahme ange¬
 hört, um so mehr, da diese Damen, wie sich
 das Journal de Paris ausdrückt, in der Revo¬
@@ -2833,7 +2833,7 @@ ners 1791 auszahlen solle.</Unicode>
                 <Word id="word_1513087655374_300" language="German" custom="readingOrder {index:4;}">
                     <Coords points="1718,1290 1649,1290 1649,1252 1718,1252"/>
                     <TextEquiv>
-                        <Unicode>dey</Unicode>
+                        <Unicode>bey</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="11.0"/>
                 </Word>
@@ -2852,7 +2852,7 @@ ners 1791 auszahlen solle.</Unicode>
                     <TextStyle fontFamily="Arial" fontSize="11.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>den. Was das unangenehmste dey der Sache,</Unicode>
+                    <Unicode>den. Was das unangenehmste bey der Sache,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="11.0"/>
             </TextLine>
@@ -3531,7 +3531,7 @@ ners 1791 auszahlen solle.</Unicode>
 reichs bald hier bald dort aufrührerische Bewegun¬
 gen , die aber durch die allgemeine Wachsamkeit des
 Patriotismus gar schnell wieder unterdrückt wer¬
-den. Was das unangenehmste dey der Sache,
+den. Was das unangenehmste bey der Sache,
 und für wackere Geistliche, welche sich Gott, und
 nicht dem Glücke und der Macht des Priester¬
 thums geheiliget haben, am meisten betrübend ist,

@@ -164,7 +164,7 @@
                     </TextEquiv>
                 </Word>
                 <TextEquiv>
-                    <Unicode>alle l. Postämter: für</Unicode>
+                    <Unicode>alle l. Postämter; für</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:4;}">
@@ -352,7 +352,7 @@
                 <Unicode>Bestellungen:
 Für die Schweiz und
 Deutschland rc. besorgen
-alle l. Postämter: für
+alle l. Postämter; für
 England, Frankreich rc.
 u. d. überseeischen Länder
 Hr. G. A. Alexandre

@@ -1388,7 +1388,7 @@ Alleinige Inseraten-Annahme bei</Unicode>
                 <Word id="w_w1aab1b5b2b3b9ac39" language="German" custom="readingOrder {index:4;}">
                     <Coords points="644,1429 746,1429 746,1472 644,1472"/>
                     <TextEquiv>
-                        <Unicode>Kops</Unicode>
+                        <Unicode>Kopf</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="7.0" bold="true"/>
                 </Word>
@@ -1407,7 +1407,7 @@ Alleinige Inseraten-Annahme bei</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="7.0" bold="true"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>Ablagen, zu den am Kops der Zeitung</Unicode>
+                    <Unicode>Ablagen, zu den am Kopf der Zeitung</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.0" bold="true"/>
             </TextLine>
@@ -1567,7 +1567,7 @@ Alleinige Inseraten-Annahme bei</Unicode>
 allen Postämtern der Schweiz, Deutsch¬
 lands, Oesterreichs und Frankreichs,
 sowie bei der Unterzeichneten und deren
-Ablagen, zu den am Kops der Zeitung
+Ablagen, zu den am Kopf der Zeitung
 aufgeführten Preisen abonnirt werden
 und ladet zur rechtzeitigen Erneuerung
 der abgelaufenen, sowie zu neuen
@@ -8255,7 +8255,7 @@ Jahre nahezu dreißig Millionen gekostet hat.</Unicode>
                 <Word id="w_w1aab1c25b2b9c27ac41" language="German" custom="readingOrder {index:4;}">
                     <Coords points="1436,3924 1531,3924 1531,3965 1436,3965"/>
                     <TextEquiv>
-                        <Unicode>Astika</Unicode>
+                        <Unicode>Afrika</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
                 </Word>
@@ -8281,7 +8281,7 @@ Jahre nahezu dreißig Millionen gekostet hat.</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>Periode der Ruhe in Astika ihren Anfang nahm;</Unicode>
+                    <Unicode>Periode der Ruhe in Afrika ihren Anfang nahm;</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
             </TextLine>
@@ -8356,7 +8356,7 @@ bewilligten dem König eine Anleihe von vier Mill.
 Franken, von denen zwei bereits an ihn bezahlt sind.
 Wäre das wirklich der Inhalt des Vertrages ge¬
 wesen, so war es klar, daß für unser Land eine
-Periode der Ruhe in Astika ihren Anfang nahm;
+Periode der Ruhe in Afrika ihren Anfang nahm;
 wir verblieben im friedlichen Besitz des hochgelege¬</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -9446,7 +9446,7 @@ abgebrochen.</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>ist feige, um uns jemals anzugreifen. Italien</Unicode>
+                    <Unicode>ist zu feige, um uns jemals anzugreifen. Italien</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="7.0"/>
             </TextLine>
@@ -9966,7 +9966,7 @@ abgebrochen.</Unicode>
             <TextEquiv>
                 <Unicode>Einstweilen ist das alles, was wir wissen und
 all das ist nicht von großer Wichtigkeit. Menelik
-ist feige, um uns jemals anzugreifen. Italien
+ist zu feige, um uns jemals anzugreifen. Italien
 aber hat in Afrika seine Erfahrungen gemacht und
 wird sicher weder Menschen- noch Geldopfer brin¬
 gen, um eine vermeintlich verletzte Nationalehre an
@@ -10826,7 +10826,7 @@ schen noch Geld kosten werden.</Unicode>
                 <Word id="w_w1aab1c29b2b3b9ac53" language="German" custom="readingOrder {index:4;}">
                     <Coords points="2335,3188 2508,3188 2508,3223 2335,3223"/>
                     <TextEquiv>
-                        <Unicode>gleichzeittger</Unicode>
+                        <Unicode>gleichzeitiger</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
                 </Word>
@@ -10845,7 +10845,7 @@ schen noch Geld kosten werden.</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>struktor I. Klasse, unter gleichzeittger Beförderung zum</Unicode>
+                    <Unicode>struktor I. Klasse, unter gleichzeitiger Beförderung zum</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
             </TextLine>
@@ -11702,7 +11702,7 @@ schen noch Geld kosten werden.</Unicode>
                 <Word id="w_w1aab1c29b2b3c39ac21" language="German" custom="readingOrder {index:2;}">
                     <Coords points="2127,3781 2219,3781 2219,3816 2127,3816"/>
                     <TextEquiv>
-                        <Unicode>Luzem</Unicode>
+                        <Unicode>Luzern</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
                 </Word>
@@ -11742,7 +11742,7 @@ schen noch Geld kosten werden.</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>Major von Luzem und Markwalder, Traugott von Rieden,</Unicode>
+                    <Unicode>Major von Luzern und Markwalder, Traugott von Rieden,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
             </TextLine>
@@ -12036,7 +12036,7 @@ schen noch Geld kosten werden.</Unicode>
 rungswahlen des Instruktionspersonals
 neu gewählt: als Kreisinstruktor: Waßmer, Göttlieb,
 Oberstlieutenant im Generalstab, von Aarau, bish. In¬
-struktor I. Klasse, unter gleichzeittger Beförderung zum
+struktor I. Klasse, unter gleichzeitiger Beförderung zum
 Obersten der Infanterie; als Instruktoren I. Klasse der
 Infanterie: die bisherigen Instruktoren II. Klasse Audéoud,
 Alfred, Major von Genf, Rey, Viktor, Major in Aarau,
@@ -12051,7 +12051,7 @@ Ganzoni, Friedrich, Malans, Monnier, Johann, Genf,
 de Preux, Moriz, Veyras, Frame, Eugen, Oberhofen,
 Kind, Gottfried, Chur, de Cocatrix, Georg, St. Moritz;
 als Instruktoren I. Klasse der Kavallerie; Pietzker, Herm.,
-Major von Luzem und Markwalder, Traugott von Rieden,
+Major von Luzern und Markwalder, Traugott von Rieden,
 Oberstlieutenant im Generalstab, bisherige Instruktoren
 II. Klasse; als Instruktor II. Klasse der Artillerie: Kunz,
 Rudolf, Hauptmann von Regensberg; als Hilfsinstruktor
@@ -12081,7 +12081,7 @@ I. Klasse der Sanitätstruppen: Dasen, Fritz, Ober¬</Unicode>
                 <Word id="w_w1aab1c31b2b1b1ac31" language="German" custom="readingOrder {index:2;}">
                     <Coords points="3043,1153 3133,1153 3133,1189 3043,1189"/>
                     <TextEquiv>
-                        <Unicode>Bem;</Unicode>
+                        <Unicode>Bern;</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
                 </Word>
@@ -12114,7 +12114,7 @@ I. Klasse der Sanitätstruppen: Dasen, Fritz, Ober¬</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>lieutenant von Bem; als Hilfsinstruktoren der Sanität:</Unicode>
+                    <Unicode>lieutenant von Bern; als Hilfsinstruktoren der Sanität:</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
             </TextLine>
@@ -12483,7 +12483,7 @@ I. Klasse der Sanitätstruppen: Dasen, Fritz, Ober¬</Unicode>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
             </TextLine>
             <TextEquiv>
-                <Unicode>lieutenant von Bem; als Hilfsinstruktoren der Sanität:
+                <Unicode>lieutenant von Bern; als Hilfsinstruktoren der Sanität:
 Fauz, Rudolf von Winterthur, Bronz, Guiseppe von Bosco.
 Die Herren Oberstlieutenant Elgger, Imfeld und Epp
 werden zu Obersten der Infanterie befördert. Der zum
@@ -12854,7 +12854,7 @@ letzterer Stelle.</Unicode>
                 <Word id="w_w1aab1c31b2b7c11ac23" language="German" custom="readingOrder {index:3;}">
                     <Coords points="2993,1843 3170,1843 3170,1879 2993,1879"/>
                     <TextEquiv>
-                        <Unicode>lebensstoher,</Unicode>
+                        <Unicode>lebensfroher,</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
                 </Word>
@@ -12887,7 +12887,7 @@ letzterer Stelle.</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>er war ein lebensstoher, freundlicher und gefälliger Mann,</Unicode>
+                    <Unicode>er war ein lebensfroher, freundlicher und gefälliger Mann,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
             </TextLine>
@@ -13054,7 +13054,7 @@ Landolt, der seiner Heimatgemeinde Wetzikon und
 dem ganzen Bezirk in öffentlicher Stellung treue Dienste
 geleistet und als Fabrikbesitzer sich die Zuneigung und
 das Vertrauen seiner zahlreichen Arbeiter erworben hatte;
-er war ein lebensstoher, freundlicher und gefälliger Mann,
+er war ein lebensfroher, freundlicher und gefälliger Mann,
 der wußte, Jedem das Seine zukommen zu lassen und
 sich und seinen Nächsten ein angenehmes Leben zu be¬
 reiten.</Unicode>
@@ -17379,7 +17379,7 @@ meine genau dasselbe wie Du."</Unicode>
                 <Word id="w_w1aab1b9b2c31c11ac37" language="German" custom="readingOrder {index:3;}">
                     <Coords points="444,5254 549,5254 549,5284 444,5284"/>
                     <TextEquiv>
-                        <Unicode>Lebms.</Unicode>
+                        <Unicode>Lebens.</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
                 </Word>
@@ -17426,7 +17426,7 @@ meine genau dasselbe wie Du."</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>sten Punkt seines Lebms. Und während es in ihm kochte,</Unicode>
+                    <Unicode>sten Punkt seines Lebens. Und während es in ihm kochte,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
             </TextLine>
@@ -17571,7 +17571,7 @@ die Verlobung mit dem trockenen Juristen; der Gedanke
 an denselben fuhr ihm stetsfort wie eine Bremse durch
 den Kopf. Statt ihm auszuweichen, hatte sie ihm den
 abgeschossenen Pfeil zurückgesandt, gezielt auf den dunkel¬
-sten Punkt seines Lebms. Und während es in ihm kochte,
+sten Punkt seines Lebens. Und während es in ihm kochte,
 stand sie wieder ruhig dort in Halbhandschuhen und über¬
 blickte die Gruppe von invaliden Hyazinthen, als wäre</Unicode>
             </TextEquiv>
@@ -17683,7 +17683,7 @@ blickte die Gruppe von invaliden Hyazinthen, als wäre</Unicode>
                 <Word id="w_w1aab1c33b2b1b3ac41" language="German" custom="readingOrder {index:4;}">
                     <Coords points="1349,4104 1409,4104 1409,4138 1349,4138"/>
                     <TextEquiv>
-                        <Unicode>Lust</Unicode>
+                        <Unicode>Luft</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
                 </Word>
@@ -17716,7 +17716,7 @@ blickte die Gruppe von invaliden Hyazinthen, als wäre</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>jetzt mußte er sich Lust machen. Und außerdem plagte</Unicode>
+                    <Unicode>jetzt mußte er sich Luft machen. Und außerdem plagte</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
             </TextLine>
@@ -17864,7 +17864,7 @@ blickte die Gruppe von invaliden Hyazinthen, als wäre</Unicode>
             </TextLine>
             <TextEquiv>
                 <Unicode>nichts begegnet. Nein doch, was auch folgen würde —
-jetzt mußte er sich Lust machen. Und außerdem plagte
+jetzt mußte er sich Luft machen. Und außerdem plagte
 ihn die Neugier; er hätte sie gar zu gerne dazu vermocht,
 ihm etwas über jene Verlobung zu erzählen.</Unicode>
             </TextEquiv>
@@ -23508,7 +23508,7 @@ Städtchen so abseits?"</Unicode>
                 <Word id="w_w1aab1c37b2c19b9ac79" language="German" custom="readingOrder {index:7;}">
                     <Coords points="3413,4947 3595,4947 3595,4977 3413,4977"/>
                     <TextEquiv>
-                        <Unicode>Soldatcnrock</Unicode>
+                        <Unicode>Soldatenrock</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
                 </Word>
@@ -23520,7 +23520,7 @@ Städtchen so abseits?"</Unicode>
                     <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>verlobt, der ja, gleich nachdem er den Soldatcnrock von</Unicode>
+                    <Unicode>verlobt, der ja, gleich nachdem er den Soldatenrock von</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true"/>
             </TextLine>
@@ -23693,7 +23693,7 @@ Städtchen so abseits?"</Unicode>
 brochen; ich war hilflos und wie ich's vorausgesehen ohne
 Aussichten. Ueberdies berichtete man mir im Haus des
 Agenten, Du seiest bereits halb und halb mit Hammelef
-verlobt, der ja, gleich nachdem er den Soldatcnrock von
+verlobt, der ja, gleich nachdem er den Soldatenrock von
 sich geworfen, als Gerichtskommissär da unten angestellt
 worden war. Diese Nachricht drückte mich vollends nieder
 und veranlaßte meinen unordentlichen Lebenswandel."</Unicode>

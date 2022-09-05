@@ -10449,7 +10449,7 @@ Professor Johann Reinhard Forster.</Unicode>
                 <Word id="w_w1aab1c33b2b1b1ac21" language="German" custom="readingOrder {index:2;}">
                     <Coords points="309,3775 669,3775 669,3820 309,3820"/>
                     <TextEquiv>
-                        <Unicode>Äbonnements-Konzert</Unicode>
+                        <Unicode>Abonnements-Konzert</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="6.0"/>
                 </Word>
@@ -10475,7 +10475,7 @@ Professor Johann Reinhard Forster.</Unicode>
                     <TextStyle fontFamily="Arial" fontSize="6.0"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>Das erste Äbonnements-Konzert der allgemeinen Musik¬</Unicode>
+                    <Unicode>Das erste Abonnements-Konzert der allgemeinen Musik¬</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="6.0"/>
             </TextLine>
@@ -10537,7 +10537,7 @@ Professor Johann Reinhard Forster.</Unicode>
                 <TextStyle fontFamily="Arial" fontSize="6.0"/>
             </TextLine>
             <TextEquiv>
-                <Unicode>Das erste Äbonnements-Konzert der allgemeinen Musik¬
+                <Unicode>Das erste Abonnements-Konzert der allgemeinen Musik¬
 gesellschaft in Zürich am 3. Dezember 1861.</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -13088,7 +13088,7 @@ kamen zur vollen Geltung</Unicode>
                 <Word id="w_w1aab1c35b2b3c33ac21" language="German" custom="readingOrder {index:2;}">
                     <Coords points="1325,4286 1418,4286 1418,4313 1325,4313"/>
                     <TextEquiv>
-                        <Unicode>andre</Unicode>
+                        <Unicode>andere</Unicode>
                     </TextEquiv>
                     <TextStyle fontFamily="Arial" fontSize="5.5"/>
                 </Word>
@@ -13142,7 +13142,7 @@ kamen zur vollen Geltung</Unicode>
                     <TextStyle fontFamily="Arial" fontSize="5.5"/>
                 </Word>
                 <TextEquiv>
-                    <Unicode>Artot und andre gute Sängerinnen, die wir in der Scala</Unicode>
+                    <Unicode>Artot und andere gute Sängerinnen, die wir in der Scala</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="5.5"/>
             </TextLine>
@@ -13390,7 +13390,7 @@ Vestvali, und der ganze Vortrag erinnerte uns lebhaft an einige
 Aufführungen in der großen Oper in Paris, wo wir Roger als
 Ruine die Partie des Roul und Edgar zerfetzen hörten; —
 an die graziöse Römerin Picolomini, an die Crivelli, an die
-Artot und andre gute Sängerinnen, die wir in der Scala
+Artot und andere gute Sängerinnen, die wir in der Scala
 hörten, erinnerte uns Fräulein von Vestvali nicht; in Paris
 würde man sie noch ertragen, in Mailand und Genua würde
 man sie nicht mehr anhören. Die Stimme ist ein schwerer,</Unicode>
